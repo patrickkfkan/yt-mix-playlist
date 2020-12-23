@@ -1,0 +1,14 @@
+{
+  "name": "yt-mix-playlist",
+  "version": "0.1.0a",
+  "description": "Fetches info about YouTube Mix playlists",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Kan",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "miniget": "^4.1.0"
+  }
+}
