@@ -8,7 +8,5 @@
   },
   "author": "Patrick Kan",
   "license": "GPL-3.0",
-  "dependencies": {
-    "miniget": "^4.1.0"
-  }
+  "dependencies": {}
 }
