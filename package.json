@@ -22,5 +22,7 @@
   ],
   "author": "Patrick Kan",
   "license": "GPL-3.0",
-  "dependencies": {}
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
