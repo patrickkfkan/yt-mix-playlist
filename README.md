@@ -62,17 +62,17 @@ Result:
 To change selected video:
 ```
 // Select by video Id or index from current list
-const updatedPlaylist = mixPlaylist.select(videoIdOrIndex);
+const updatedPlaylist = await mixPlaylist.select(videoIdOrIndex);
 ```
 or:
 ```
 // Select the last video in current list
-const updatedPlaylist = mixPlaylist.selectLast();
+const updatedPlaylist = await mixPlaylist.selectLast();
 ```
 or:
 ```
 // Select the first video in current list
-const updatedPlaylist = mixPlaylist.selectFirst();
+const updatedPlaylist = await mixPlaylist.selectFirst();
 ```
 List of videos in playlist *may* change after selection. You need to refer to `currentIndex` and `items` of the returned result for the updated selection index and list of videos, respectively.
 
@@ -149,20 +149,20 @@ Options:
 
 Example:
 ```
-const mixPlaylist = ytmpl('XCcN-IoYIJA', { hl: 'en', gl: 'US' });
+const mixPlaylist = await ytmpl('XCcN-IoYIJA', { hl: 'en', gl: 'US' });
 ```
 
-Returns an object representing the Mix playlist, or `null` if none found.
+Returns a Promise that resolves to an object representing the Mix playlist, or `null` if none found.
 
 ### Playlist functions
 
-The following functions can be called on the returned playlist object:
+The following functions can be called on the resolved playlist object:
 
 **select(videoIdOrIndex)**
 
 `videoIdOrIndex`: A playlist item's Id or index in the playlist's `items` array
 
-Selects the specified video in the playlist. Returns a new object representing the updated playlist after selection. Original playlist is not changed.
+Selects the specified video in the playlist. Returns a Promise that resolves to an object representing the updated playlist after selection. Original playlist is not changed.
 
 **selectFirst()**
 
