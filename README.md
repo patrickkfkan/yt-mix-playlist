@@ -210,5 +210,17 @@ Each item in the `items` array has the following properties:
 |duration               |                                           |
 |thumbnails             |                                           |
 
+## Changelog
+
+0.1.2-b:
+- More robust fetching of mix playlists (using continuation tokens if necessary)
+- Use semantic versioning from now on
+
+0.1.1b:
+- Fix dependencies
+
+0.1.0b:
+- Initial release
+
 ## License
 GPLv3

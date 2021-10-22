@@ -1,6 +1,6 @@
 {
   "name": "yt-mix-playlist",
-  "version": "0.1.1b",
+  "version": "0.1.2-b",
   "description": "Fetches info about YouTube Mix playlists",
   "main": "./lib/index.js",
   "scripts": {
