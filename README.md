@@ -212,6 +212,9 @@ Each item in the `items` array has the following properties:
 
 ## Changelog
 
+0.1.2-b.2:
+- Fix regression bug
+
 0.1.2-b:
 - More robust fetching of mix playlists (using continuation tokens if necessary)
 - Use semantic versioning from now on
