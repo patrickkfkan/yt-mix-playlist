@@ -102,17 +102,18 @@ export async function getContinuationResults(context: Context, token: string): P
     context: {
       client: {
         clientName: 'WEB',
-        clientVersion: '2.20201021.03.00'
+        clientVersion: '2.20230331.00.00'
       }
     },
     continuation: token
   };
-  if (context.options.gl) postData.gl = context.options.gl;
-  if (context.options.hl) postData.hl = context.options.hl;
+  if (context.options.gl) postData.context.client.gl = context.options.gl;
+  if (context.options.hl) postData.context.client.hl = context.options.hl;
 
   const response = await context.fetchFn(CONTINUATION_URL, {
     method: 'POST',
-    body: postData
+    body: JSON.stringify(postData),
+    headers: { 'Content-Type': 'application/json; charset=UTF-8' }
   });
 
   return await response.json();
