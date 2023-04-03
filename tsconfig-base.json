@@ -1,0 +1,14 @@
+{
+  "include": ["src/**/*.ts"],
+  "compilerOptions": {
+    "target": "es2020",
+    "declaration": true,
+    "declarationMap": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "inlineSources": true,
+    "strict": true,
+    "strictPropertyInitialization": false
+  }
+}
