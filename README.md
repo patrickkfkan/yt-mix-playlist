@@ -238,6 +238,10 @@ Each item in the `items` array is a `MixPlaylistItem` object with the following 
 
 ## Changelog
 
+1.0.1:
+- Fix fetching of continuation data
+- Fix silly bug with reading undefined data
+
 1.0.0:
 - Rewrite with Typescript and as ESM + CJS hybrid module
 - Replace [request](https://github.com/request/request) dependency with [node-fetch](https://github.com/node-fetch/node-fetch) + [fetch-cookie](https://github.com/valeriangalliat/fetch-cookie), as 'request' is deprecated and contains critical vulnerability.
