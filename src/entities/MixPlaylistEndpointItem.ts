@@ -53,7 +53,7 @@ export default class MixPlaylistEndpointItem extends MixPlaylistBasicInfo {
     }
 
     if (Array.isArray(items)) {
-      const itemData = items.find((item) => item?.compactRadioRenderer?.playlistId).compactRadioRenderer;
+      const itemData = items.find((item) => item?.compactRadioRenderer?.playlistId)?.compactRadioRenderer;
 
       if (itemData) {
         return this.#parse(itemData);
