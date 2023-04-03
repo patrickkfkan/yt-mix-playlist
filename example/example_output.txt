@@ -10,31 +10,81 @@ Obtained playlist:
 - Selected video Id: XCcN-IoYIJA (index: 0)
 - Items:
 --------------------
-0. XCcN-IoYIJA(selected): Wiljan & Xandra - Woodlands by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-1. _jYoI4rR_fg: Waking Dreams - Someone Else by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-2. nMSqAexWQgo: Michael FK - Molecule by Michael FK (channelId: UCJ2NTKK4C9Vc1d7hZ4DhBeg - https://www.youtube.com/channel/UCJ2NTKK4C9Vc1d7hZ4DhBeg)
-3. dmawL699ffA: Wiljam - Faraway by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-4. 3gy8KV11BoU: Broke For Free - Smoke Sill by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-5. hV4rJyK3QCU: Chill | Snowzard - Meadow by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-6. KPg9e2QSlv0: Michael FK - Forgotten at Sea by Michael FK (channelId: UCJ2NTKK4C9Vc1d7hZ4DhBeg - https://www.youtube.com/channel/UCJ2NTKK4C9Vc1d7hZ4DhBeg)
-7. tgap7y7nOW8: Rameses B - Escape by Rameses B (channelId: UCZOp92-sBSWk2X7UkmRPAtw - https://www.youtube.com/channel/UCZOp92-sBSWk2X7UkmRPAtw)
-8. _PGmknFMVHY: Ptr. - Sacred Land by OnlyChillstep (channelId: UCJ-DCKo6g07dtJJhjbkJtXA - https://www.youtube.com/c/OnlyChillstep)
-9. M2rMhK0C7zU: CMA - Broken Thoughts (Chillstep) by CMA Music (channelId: UCd1kn5Zsqtjbbfb38b8VBfQ - https://www.youtube.com/channel/UCd1kn5Zsqtjbbfb38b8VBfQ)
-10. qMVP61y9_yw: Starlight Exsert - Waves by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-11. 3TxdbXtlzX0: Tiik - Give Me Your Lovin by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-12. 7nwwdhZzVro: [Chillstep] Wayr - Sleeping Forest by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-13. K35nFONmgx8: Rameses B - We Love by Rameses B (channelId: UCZOp92-sBSWk2X7UkmRPAtw - https://www.youtube.com/channel/UCZOp92-sBSWk2X7UkmRPAtw)
-14. wHfc5j5QUIs: Chillstep | Michael FK - Luminescence by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-15. fZnNCcda-gM: Marga Sol - Bliss of Water (Official Video) by M-Sol Records Music (channelId: UC6QjC3MrolN9dPxVCyGQtLQ - https://www.youtube.com/c/MSolRecordsMusic)
-16. t_sb9epRSRY: Michael FK - On the Horizon by Michael FK (channelId: UCJ2NTKK4C9Vc1d7hZ4DhBeg - https://www.youtube.com/channel/UCJ2NTKK4C9Vc1d7hZ4DhBeg)
-17. J5l9Ej1zBlA: Mr FijiWiji - Cynical (Feat. CoMa) by Mr FijiWiji (channelId: UCGnvMBf7bX7-1L0LD4JUx1g - https://www.youtube.com/channel/UCGnvMBf7bX7-1L0LD4JUx1g)
-18. yVJGxfGR8n8: Everbeat & Wiljan - Wither by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-19. -ZaTiZMIaXg: Zymek - Tomorrow by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-20. RHZgJHgFAOs: Shingo Nakamura - Perception [Silk Music] by Monstercat Silk (channelId: UCX4sShAQf01LYjYQhG2ZgKg - https://www.youtube.com/c/monstercatsilk)
-21. gsasoJGkcnM: Shah - Vanished by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-22. mMrWWVrBrlY: Above & Beyond - You Got To Go (Owsey Remix) by Liquiddnbftw (channelId: UC2nyzWMWgoYnbrJjeEpETLw - https://www.youtube.com/c/Liquiddnbftw)
-23. h_lRtkshuPI: Rameses B - Meaning Of Life by Liquicity (channelId: UCSXm6c-n6lsjtyjvdD0bFVw - https://www.youtube.com/c/Liquicity)
-24. g2BeVLmgfMo: Loaded by Mega Drive - Topic (channelId: UCh5BaHsQlhclRxPxshcwbAA - https://www.youtube.com/channel/UCh5BaHsQlhclRxPxshcwbAA)
+0. XCcN-IoYIJA(selected): Wiljan & Xandra - Woodlands (duration: 5:30)
+                          By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                          Img: https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvEI7c-VFkX0QfXbWQsWdLKeVp5w (336 x 188)
+1. 2_Oiu5WSjSU: Top Funnel (duration: 3:22)
+                By: Ooyy (channelId: UC56VteRSRAWH5EulBIDFFSQ - https://www.youtube.com/channel/UC56VteRSRAWH5EulBIDFFSQ)
+                Img: https://i.ytimg.com/vi/2_Oiu5WSjSU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4MuspZdeyFJm_BFbXatsk3kY1VA (336 x 188)
+2. _jYoI4rR_fg: Waking Dreams - Someone Else (duration: 4:49)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/_jYoI4rR_fg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBr7NllkpVx-oLsp5tCu9Tlf3Pa0g (336 x 188)
+3. uSsB5hOfQVg: LEMMiNO - Voyage (duration: 3:49)
+                By: LEMMiNO Music (channelId: UCTL8LLKEGXlXqDLVAOLDNnA - https://www.youtube.com/@LEMMiNOMusic)
+                Img: https://i.ytimg.com/vi/uSsB5hOfQVg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBH6fD2f1MEz5qUPydzVm7FVF_sCQ (336 x 188)
+4. 2EfLc_jP2g8: Josh Leake - Dusk To Dawn (duration: 4:34)
+                By: Ambient (channelId: UCm3-xqAh3Z-CwBniG1u_1vw - https://www.youtube.com/@AmbientMusicalGenre)
+                Img: https://i.ytimg.com/vi/2EfLc_jP2g8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDqAzDWsIn5EjzOAuFa4Z-v56OCwA (336 x 188)
+5. KjQ2w80zFWw: Silenset - Your Eyes (duration: 4:43)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/KjQ2w80zFWw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3OlGdlT6IzqZIUxB5UZkPGpDMsA (336 x 188)
+6. GBvLVesLZmY: Heat Waves (duration: 3:59)
+                By: Glass Animals (channelId: UCJTs-KheOMNstaGrDL4K55Q - https://www.youtube.com/channel/UCJTs-KheOMNstaGrDL4K55Q)
+                Img: https://i.ytimg.com/vi/GBvLVesLZmY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVcOY68LyZ_KhjhDmjsbNniCckdQ (336 x 188)
+7. _tM1aoKQDaY: Nomyn - Lightness (duration: 3:22)
+                By: Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
+                Img: https://i.ytimg.com/vi/_tM1aoKQDaY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgmR_3zesYQBEOGfg1PflwBVs6xQ (336 x 188)
+8. owTWCbq_nSk: Something Just Like This (duration: 4:08)
+                By: The Chainsmokers (channelId: UCq3Ci-h945sbEYXpVlw7rJg - https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg)
+                Img: https://i.ytimg.com/vi/owTWCbq_nSk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBfzYi5SoPQPfYuRofC8gpF_z5pbw (336 x 188)
+9. yrotlfsJixM: Resonance - Haven (duration: 4:05)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/yrotlfsJixM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCPyksq31AkNnvSbkAEl9pAUjIFWA (336 x 188)
+10. J7p4bzqLvCw: Blinding Lights (duration: 3:22)
+                 By: The Weeknd (channelId: UC0WP5P-ufpRfjbNrmOWwLBQ - https://www.youtube.com/channel/UC0WP5P-ufpRfjbNrmOWwLBQ)
+                 Img: https://i.ytimg.com/vi/J7p4bzqLvCw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCr2xXG5qod1kCDrd4-OqxLe2jtvA (336 x 188)
+11. inCm3ByI17o: This Is What You Came For (duration: 3:43)
+                 By: Calvin Harris (channelId: UCIjYyZxkFucP_W-tmXg_9Ow - https://www.youtube.com/channel/UCIjYyZxkFucP_W-tmXg_9Ow)
+                 Img: https://i.ytimg.com/vi/inCm3ByI17o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBuEH2-z02NImnUzEONV1A6tCni4g (336 x 188)
+12. ELeOApMXJNY: Lana Del Rey - Blue Jeans (Eyela Beret Bootleg Remix) [Free Download] (duration: 3:23)
+                 By: 17tumba (channelId: UCWxdUZnLLj8v_1R5XpZj1-w - https://www.youtube.com/@17tumbaOfficial)
+                 Img: https://i.ytimg.com/vi/ELeOApMXJNY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAnYaYGtCRXFCMWnlojxIfV_8flzQ (336 x 188)
+13. X-x7eZOdBFM: Marshmello & Anne-Marie - FRIENDS [Alternative Music Video] (duration: 3:27)
+                 By: Anne-Marie (channelId: UCBL7ZxVX4GvW4CFiES_-0YA - https://www.youtube.com/channel/UCBL7ZxVX4GvW4CFiES_-0YA)
+                 Img: https://i.ytimg.com/vi/X-x7eZOdBFM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyATKBkwDw==&rs=AOn4CLAlyARwaa0OHNJipIGxZKtNoHdsuQ (336 x 188)
+14. ZAfAud_M_mg: Halsey - Without Me (duration: 3:57)
+                 By: Halsey (channelId: UCOCgB3xd-B-1qAm-hR9OLrA - https://www.youtube.com/channel/UCOCgB3xd-B-1qAm-hR9OLrA)
+                 Img: https://i.ytimg.com/vi/ZAfAud_M_mg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDUIZTYPE0phbUMgDnqqRGZCXe_Iw (336 x 188)
+15. BuOBtfCioBY: Catching Flies : The Long Journey Home (Official Audio) (duration: 4:50)
+                 By: Catching Flies (channelId: UCH8VsPoeXmrAL3NOdo1inVA - https://www.youtube.com/channel/UCH8VsPoeXmrAL3NOdo1inVA)
+                 Img: https://i.ytimg.com/vi/BuOBtfCioBY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAY9I0IYyMaIYgmu9EBRCiZmWZZoQ (336 x 188)
+16. B6VPVBkXRPE: Ooyy - Gelatin Nature (duration: 3:26)
+                 By: Epidemic Electronic (channelId: UCMg7TTDtUXq2yTu3uqqoprQ - https://www.youtube.com/@EpidemicElectronic)
+                 Img: https://i.ytimg.com/vi/B6VPVBkXRPE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC7UaWgJo9QltCnqBHsk-0fsKueWA (336 x 188)
+17. zIZqs_e4Og4: Experience (Starkey Remix / Remastered 2020) (duration: 5:44)
+                 By: Ludovico Einaudi (channelId: UCQxsahIsaO7_nDwVlFRMQiA - https://www.youtube.com/channel/UCQxsahIsaO7_nDwVlFRMQiA)
+                 Img: https://i.ytimg.com/vi/zIZqs_e4Og4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1UxALP4lrdKhmP6xLi09oaPwF3g (336 x 188)
+18. YvScsMxYODU: Lazarus - Magnetic Flower (duration: 3:37)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/YvScsMxYODU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFo9ME9PHXDJ259s3e-ZnJsnv5ag (336 x 188)
+19. x3bfa3DZ8JM: Khalid - Better (Official Video) (duration: 4:11)
+                 By: Khalid (channelId: UCkntT5Je5DDopF70YUsnuEQ - https://www.youtube.com/channel/UCkntT5Je5DDopF70YUsnuEQ)
+                 Img: https://i.ytimg.com/vi/x3bfa3DZ8JM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8d6cTc5hMSflDCGvQXkBPiR3qmg (336 x 188)
+20. rC-EFMisWgM: Chillstep | Sappheiros - Escape (Remake) (duration: 5:11)
+                 By: MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/@MixHound)
+                 Img: https://i.ytimg.com/vi/rC-EFMisWgM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDd9iyRlQ_vWMoULd0aYBX_KXprg (336 x 188)
+21. aWeL8bHij08: SizzleBird - Elixir (duration: 4:16)
+                 By: SizzleBird (channelId: UCuOBK_yo-DkTCuDCByfYelg - https://www.youtube.com/@sizzlebird1)
+                 Img: https://i.ytimg.com/vi/aWeL8bHij08/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUnis_fZxkaBNMzVyU2cGHIXmQNA (336 x 188)
+22. XXYlFuWEuKI: The Weeknd - Save Your Tears (Official Music Video) (duration: 4:09)
+                 By: The Weeknd (channelId: UC0WP5P-ufpRfjbNrmOWwLBQ - https://www.youtube.com/channel/UC0WP5P-ufpRfjbNrmOWwLBQ)
+                 Img: https://i.ytimg.com/vi/XXYlFuWEuKI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBS5bxh76zY7FY2Of-0EUk2NZRyXA (336 x 188)
+23. BvOri59lfs8: Phantomyst - The Pulse (duration: 3:55)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/BvOri59lfs8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYfyBCKCEwDw==&rs=AOn4CLCDPCTAOLZsSHqBK_IW_Iuc3UywPw (336 x 188)
+24. r7zTKRonHXM: Closer (duration: 4:06)
+                 By: The Chainsmokers (channelId: UCq3Ci-h945sbEYXpVlw7rJg - https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg)
+                 Img: https://i.ytimg.com/vi/r7zTKRonHXM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCa_74IEpemLP9YlbCgdAxE_lALSQ (336 x 188)
 
 ================================================
 Iteration #0: Selecting last item in playlist...
@@ -44,60 +94,158 @@ Playlist updated:
 - Title: Mix - Wiljan & Xandra - Woodlands
 - Author: YouTube
 - Video Count: 50+ videos
-- Share URL: http://www.youtube.com/watch?v=g2BeVLmgfMo&list=RDXCcN-IoYIJA
+- Share URL: http://www.youtube.com/watch?v=r7zTKRonHXM&list=RDXCcN-IoYIJA
 - Thumbnails: [{"url":"https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARuI_29dvrA_u7pQj4xs8X_HUwDw","width":336,"height":188},{"url":"https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCnA4XJbGLUcY1BPiU3TjMhKj1VXA","width":168,"height":94}]
-- Selected video Id: g2BeVLmgfMo (index: 24)
+- Selected video Id: r7zTKRonHXM (index: 24)
 - Items:
 --------------------
-0. XCcN-IoYIJA: Wiljan & Xandra - Woodlands by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-1. _jYoI4rR_fg: Waking Dreams - Someone Else by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-2. nMSqAexWQgo: Michael FK - Molecule by Michael FK (channelId: UCJ2NTKK4C9Vc1d7hZ4DhBeg - https://www.youtube.com/channel/UCJ2NTKK4C9Vc1d7hZ4DhBeg)
-3. dmawL699ffA: Wiljam - Faraway by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-4. 3gy8KV11BoU: Broke For Free - Smoke Sill by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-5. hV4rJyK3QCU: Chill | Snowzard - Meadow by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-6. KPg9e2QSlv0: Michael FK - Forgotten at Sea by Michael FK (channelId: UCJ2NTKK4C9Vc1d7hZ4DhBeg - https://www.youtube.com/channel/UCJ2NTKK4C9Vc1d7hZ4DhBeg)
-7. tgap7y7nOW8: Rameses B - Escape by Rameses B (channelId: UCZOp92-sBSWk2X7UkmRPAtw - https://www.youtube.com/channel/UCZOp92-sBSWk2X7UkmRPAtw)
-8. _PGmknFMVHY: Ptr. - Sacred Land by OnlyChillstep (channelId: UCJ-DCKo6g07dtJJhjbkJtXA - https://www.youtube.com/c/OnlyChillstep)
-9. M2rMhK0C7zU: CMA - Broken Thoughts (Chillstep) by CMA Music (channelId: UCd1kn5Zsqtjbbfb38b8VBfQ - https://www.youtube.com/channel/UCd1kn5Zsqtjbbfb38b8VBfQ)
-10. qMVP61y9_yw: Starlight Exsert - Waves by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-11. 3TxdbXtlzX0: Tiik - Give Me Your Lovin by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-12. 7nwwdhZzVro: [Chillstep] Wayr - Sleeping Forest by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-13. K35nFONmgx8: Rameses B - We Love by Rameses B (channelId: UCZOp92-sBSWk2X7UkmRPAtw - https://www.youtube.com/channel/UCZOp92-sBSWk2X7UkmRPAtw)
-14. wHfc5j5QUIs: Chillstep | Michael FK - Luminescence by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-15. fZnNCcda-gM: Marga Sol - Bliss of Water (Official Video) by M-Sol Records Music (channelId: UC6QjC3MrolN9dPxVCyGQtLQ - https://www.youtube.com/c/MSolRecordsMusic)
-16. t_sb9epRSRY: Michael FK - On the Horizon by Michael FK (channelId: UCJ2NTKK4C9Vc1d7hZ4DhBeg - https://www.youtube.com/channel/UCJ2NTKK4C9Vc1d7hZ4DhBeg)
-17. J5l9Ej1zBlA: Mr FijiWiji - Cynical (Feat. CoMa) by Mr FijiWiji (channelId: UCGnvMBf7bX7-1L0LD4JUx1g - https://www.youtube.com/channel/UCGnvMBf7bX7-1L0LD4JUx1g)
-18. yVJGxfGR8n8: Everbeat & Wiljan - Wither by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-19. -ZaTiZMIaXg: Zymek - Tomorrow by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-20. RHZgJHgFAOs: Shingo Nakamura - Perception [Silk Music] by Monstercat Silk (channelId: UCX4sShAQf01LYjYQhG2ZgKg - https://www.youtube.com/c/monstercatsilk)
-21. gsasoJGkcnM: Shah - Vanished by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-22. mMrWWVrBrlY: Above & Beyond - You Got To Go (Owsey Remix) by Liquiddnbftw (channelId: UC2nyzWMWgoYnbrJjeEpETLw - https://www.youtube.com/c/Liquiddnbftw)
-23. h_lRtkshuPI: Rameses B - Meaning Of Life by Liquicity (channelId: UCSXm6c-n6lsjtyjvdD0bFVw - https://www.youtube.com/c/Liquicity)
-24. g2BeVLmgfMo(selected): Loaded by Mega Drive - Topic (channelId: UCh5BaHsQlhclRxPxshcwbAA - https://www.youtube.com/channel/UCh5BaHsQlhclRxPxshcwbAA)
-25. EVf7HyaClcE: Watch Me Fall by Phil Rey Gibbons (channelId: UC6iFYYc9UTS3BKtlovWgSkA - https://www.youtube.com/channel/UC6iFYYc9UTS3BKtlovWgSkA)
-26. Tf0_chLBQ7M: Chillstep | Kisnou - Sine Ira by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-27. gmtA6ZnV_AI: Really Slow Motion - Across Meridians (Extended Mix) by Epic Mondays Music Extensions (channelId: UCkyeeCej0ITYLZTr_d9HurQ - https://www.youtube.com/c/EpicMondaysMusicExtensions)
-28. dLSkvGgkTnU: Veil44 - Pulse by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-29. 17Sh1yc1QBM: Jacknife & The Bloody Beetroots - Jericho (Official Audio) by Spinnin' Records (channelId: UCpDJl2EmP7Oh90Vylx0dZtA - https://www.youtube.com/c/spinninrecords)
-30. KiWdli2KBMU: Nomyn - Gratitude by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-31. MuiGJqaGC2I: Aurora Night - Soul by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-32. PZSDa8i-FA0: Chillstep | S'Hill - Distant Memories by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-33. 0lCH4gGillI: KOAN Sound - Lost In Thought by KOAN Sound (channelId: UCazuZ5iU8LfQ6-IucPhctKQ - https://www.youtube.com/channel/UCazuZ5iU8LfQ6-IucPhctKQ)
-34. 7SdVxKcuibM: Euphoria by AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
-35. TzUlnugw7Dw: Goodbye Gravity - Lunation by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-36. zBnKCKk8cvo: Dwayne Ford - Heroine's Journey | Epic Cinematic Vocal Hybrid Music by Premium Music HQ (channelId: UCDNX3eBBlqBLpjv_b3UiodQ - https://www.youtube.com/user/wersion751EXTENDED)
-37. _GkiGo0j0xs: Vexaic  - Afar, We Stand by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-38. 5JHs-bFGK2E: Atom Music Audio - Home of the Broken Worlds (Extended Version) by Epic Mondays Music Extensions (channelId: UCkyeeCej0ITYLZTr_d9HurQ - https://www.youtube.com/c/EpicMondaysMusicExtensions)
-39. wyF8Al0TEfI: Chillstep | Tim Schaufert - Journey by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-40. zooc1v-aqLE: Chillstep | Dawncall - Chaos by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-41. bSg0-ST_2bQ: Water by Blackfir3 - Topic (channelId: UCtPe4P7Tm9QWKirtFIGf97Q - https://www.youtube.com/channel/UCtPe4P7Tm9QWKirtFIGf97Q)
-42. up9ByuGgi-4: Remi (Essáy Remix) by Kyson - Topic (channelId: UCkAV030PgGPpLqUc6B0SPbw - https://www.youtube.com/channel/UCkAV030PgGPpLqUc6B0SPbw)
-43. F4Fo1tyBJ-U: Heaven Above (Rework) by Cash - Topic (channelId: UCGmI5vKf7ytO7b66RBZLImQ - https://www.youtube.com/channel/UCGmI5vKf7ytO7b66RBZLImQ)
-44. 2nbPxgLt2_E: Inkarv - I'm Falling by OnlyChillstep (channelId: UCJ-DCKo6g07dtJJhjbkJtXA - https://www.youtube.com/c/OnlyChillstep)
-45. jJAyHMqRm-8: Day One - Horizon by SuicideSheeep (channelId: UCLTZddgA_La9H4Ngg99t_QQ - https://www.youtube.com/user/SuicideSheeep)
-46. yrotlfsJixM: Resonance - Haven by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-47. 2Fswbew5rs4: Reflections by Cali Martini - Topic (channelId: UCVcqc0G8N5Z72SJPypGkcCw - https://www.youtube.com/channel/UCVcqc0G8N5Z72SJPypGkcCw)
-48. tWyXX446LTQ: Phantomyst - Forever by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
+0. XCcN-IoYIJA: Wiljan & Xandra - Woodlands (duration: 5:30)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvEI7c-VFkX0QfXbWQsWdLKeVp5w (336 x 188)
+1. 2_Oiu5WSjSU: Top Funnel (duration: 3:22)
+                By: Ooyy (channelId: UC56VteRSRAWH5EulBIDFFSQ - https://www.youtube.com/channel/UC56VteRSRAWH5EulBIDFFSQ)
+                Img: https://i.ytimg.com/vi/2_Oiu5WSjSU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4MuspZdeyFJm_BFbXatsk3kY1VA (336 x 188)
+2. _jYoI4rR_fg: Waking Dreams - Someone Else (duration: 4:49)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/_jYoI4rR_fg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBr7NllkpVx-oLsp5tCu9Tlf3Pa0g (336 x 188)
+3. uSsB5hOfQVg: LEMMiNO - Voyage (duration: 3:49)
+                By: LEMMiNO Music (channelId: UCTL8LLKEGXlXqDLVAOLDNnA - https://www.youtube.com/@LEMMiNOMusic)
+                Img: https://i.ytimg.com/vi/uSsB5hOfQVg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBH6fD2f1MEz5qUPydzVm7FVF_sCQ (336 x 188)
+4. 2EfLc_jP2g8: Josh Leake - Dusk To Dawn (duration: 4:34)
+                By: Ambient (channelId: UCm3-xqAh3Z-CwBniG1u_1vw - https://www.youtube.com/@AmbientMusicalGenre)
+                Img: https://i.ytimg.com/vi/2EfLc_jP2g8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDqAzDWsIn5EjzOAuFa4Z-v56OCwA (336 x 188)
+5. KjQ2w80zFWw: Silenset - Your Eyes (duration: 4:43)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/KjQ2w80zFWw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3OlGdlT6IzqZIUxB5UZkPGpDMsA (336 x 188)
+6. GBvLVesLZmY: Heat Waves (duration: 3:59)
+                By: Glass Animals (channelId: UCJTs-KheOMNstaGrDL4K55Q - https://www.youtube.com/channel/UCJTs-KheOMNstaGrDL4K55Q)
+                Img: https://i.ytimg.com/vi/GBvLVesLZmY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVcOY68LyZ_KhjhDmjsbNniCckdQ (336 x 188)
+7. _tM1aoKQDaY: Nomyn - Lightness (duration: 3:22)
+                By: Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
+                Img: https://i.ytimg.com/vi/_tM1aoKQDaY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgmR_3zesYQBEOGfg1PflwBVs6xQ (336 x 188)
+8. owTWCbq_nSk: Something Just Like This (duration: 4:08)
+                By: The Chainsmokers (channelId: UCq3Ci-h945sbEYXpVlw7rJg - https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg)
+                Img: https://i.ytimg.com/vi/owTWCbq_nSk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBfzYi5SoPQPfYuRofC8gpF_z5pbw (336 x 188)
+9. yrotlfsJixM: Resonance - Haven (duration: 4:05)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/yrotlfsJixM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCPyksq31AkNnvSbkAEl9pAUjIFWA (336 x 188)
+10. J7p4bzqLvCw: Blinding Lights (duration: 3:22)
+                 By: The Weeknd (channelId: UC0WP5P-ufpRfjbNrmOWwLBQ - https://www.youtube.com/channel/UC0WP5P-ufpRfjbNrmOWwLBQ)
+                 Img: https://i.ytimg.com/vi/J7p4bzqLvCw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCr2xXG5qod1kCDrd4-OqxLe2jtvA (336 x 188)
+11. inCm3ByI17o: This Is What You Came For (duration: 3:43)
+                 By: Calvin Harris (channelId: UCIjYyZxkFucP_W-tmXg_9Ow - https://www.youtube.com/channel/UCIjYyZxkFucP_W-tmXg_9Ow)
+                 Img: https://i.ytimg.com/vi/inCm3ByI17o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBuEH2-z02NImnUzEONV1A6tCni4g (336 x 188)
+12. ELeOApMXJNY: Lana Del Rey - Blue Jeans (Eyela Beret Bootleg Remix) [Free Download] (duration: 3:23)
+                 By: 17tumba (channelId: UCWxdUZnLLj8v_1R5XpZj1-w - https://www.youtube.com/@17tumbaOfficial)
+                 Img: https://i.ytimg.com/vi/ELeOApMXJNY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAnYaYGtCRXFCMWnlojxIfV_8flzQ (336 x 188)
+13. X-x7eZOdBFM: Marshmello & Anne-Marie - FRIENDS [Alternative Music Video] (duration: 3:27)
+                 By: Anne-Marie (channelId: UCBL7ZxVX4GvW4CFiES_-0YA - https://www.youtube.com/channel/UCBL7ZxVX4GvW4CFiES_-0YA)
+                 Img: https://i.ytimg.com/vi/X-x7eZOdBFM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyATKBkwDw==&rs=AOn4CLAlyARwaa0OHNJipIGxZKtNoHdsuQ (336 x 188)
+14. ZAfAud_M_mg: Halsey - Without Me (duration: 3:57)
+                 By: Halsey (channelId: UCOCgB3xd-B-1qAm-hR9OLrA - https://www.youtube.com/channel/UCOCgB3xd-B-1qAm-hR9OLrA)
+                 Img: https://i.ytimg.com/vi/ZAfAud_M_mg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDUIZTYPE0phbUMgDnqqRGZCXe_Iw (336 x 188)
+15. BuOBtfCioBY: Catching Flies : The Long Journey Home (Official Audio) (duration: 4:50)
+                 By: Catching Flies (channelId: UCH8VsPoeXmrAL3NOdo1inVA - https://www.youtube.com/channel/UCH8VsPoeXmrAL3NOdo1inVA)
+                 Img: https://i.ytimg.com/vi/BuOBtfCioBY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAY9I0IYyMaIYgmu9EBRCiZmWZZoQ (336 x 188)
+16. B6VPVBkXRPE: Ooyy - Gelatin Nature (duration: 3:26)
+                 By: Epidemic Electronic (channelId: UCMg7TTDtUXq2yTu3uqqoprQ - https://www.youtube.com/@EpidemicElectronic)
+                 Img: https://i.ytimg.com/vi/B6VPVBkXRPE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC7UaWgJo9QltCnqBHsk-0fsKueWA (336 x 188)
+17. zIZqs_e4Og4: Experience (Starkey Remix / Remastered 2020) (duration: 5:44)
+                 By: Ludovico Einaudi (channelId: UCQxsahIsaO7_nDwVlFRMQiA - https://www.youtube.com/channel/UCQxsahIsaO7_nDwVlFRMQiA)
+                 Img: https://i.ytimg.com/vi/zIZqs_e4Og4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1UxALP4lrdKhmP6xLi09oaPwF3g (336 x 188)
+18. YvScsMxYODU: Lazarus - Magnetic Flower (duration: 3:37)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/YvScsMxYODU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFo9ME9PHXDJ259s3e-ZnJsnv5ag (336 x 188)
+19. x3bfa3DZ8JM: Khalid - Better (Official Video) (duration: 4:11)
+                 By: Khalid (channelId: UCkntT5Je5DDopF70YUsnuEQ - https://www.youtube.com/channel/UCkntT5Je5DDopF70YUsnuEQ)
+                 Img: https://i.ytimg.com/vi/x3bfa3DZ8JM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8d6cTc5hMSflDCGvQXkBPiR3qmg (336 x 188)
+20. rC-EFMisWgM: Chillstep | Sappheiros - Escape (Remake) (duration: 5:11)
+                 By: MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/@MixHound)
+                 Img: https://i.ytimg.com/vi/rC-EFMisWgM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDd9iyRlQ_vWMoULd0aYBX_KXprg (336 x 188)
+21. aWeL8bHij08: SizzleBird - Elixir (duration: 4:16)
+                 By: SizzleBird (channelId: UCuOBK_yo-DkTCuDCByfYelg - https://www.youtube.com/@sizzlebird1)
+                 Img: https://i.ytimg.com/vi/aWeL8bHij08/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUnis_fZxkaBNMzVyU2cGHIXmQNA (336 x 188)
+22. XXYlFuWEuKI: The Weeknd - Save Your Tears (Official Music Video) (duration: 4:09)
+                 By: The Weeknd (channelId: UC0WP5P-ufpRfjbNrmOWwLBQ - https://www.youtube.com/channel/UC0WP5P-ufpRfjbNrmOWwLBQ)
+                 Img: https://i.ytimg.com/vi/XXYlFuWEuKI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBS5bxh76zY7FY2Of-0EUk2NZRyXA (336 x 188)
+23. BvOri59lfs8: Phantomyst - The Pulse (duration: 3:55)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/BvOri59lfs8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYfyBCKCEwDw==&rs=AOn4CLCDPCTAOLZsSHqBK_IW_Iuc3UywPw (336 x 188)
+24. r7zTKRonHXM(selected): Closer (duration: 4:06)
+                           By: The Chainsmokers (channelId: UCq3Ci-h945sbEYXpVlw7rJg - https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg)
+                           Img: https://i.ytimg.com/vi/r7zTKRonHXM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCa_74IEpemLP9YlbCgdAxE_lALSQ (336 x 188)
+25. J5e0-tv4lP4: Art of Silence (duration: 4:16)
+                 By: UniqOfficial - Topic (channelId: UC71u6VPHlqTHsnRgZQ4hoXg - https://www.youtube.com/channel/UC71u6VPHlqTHsnRgZQ4hoXg)
+                 Img: https://i.ytimg.com/vi/J5e0-tv4lP4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMiS3LHZKQ4M-mgsttrmm_U1VVFQ (336 x 188)
+26. kVtkKtw5Af8: The Chainsmokers - All We Know ft. Phoebe Ryan (Jaydon Lewis & NGO Remix) (duration: 3:37)
+                 By: Trap Nation (channelId: UCa10nxShhzNrCE1o2ZOPztg - https://www.youtube.com/@TrapNation)
+                 Img: https://i.ytimg.com/vi/kVtkKtw5Af8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYSyBGKHIwDw==&rs=AOn4CLAVs0I590PwCf7XIjFH9iWrLlvIJw (336 x 188)
+27. ZqhJrCThkj4: Nani Kha - Mutant (duration: 3:27)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/ZqhJrCThkj4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYMiBHKH8wDw==&rs=AOn4CLBpilONXAyWSjIFkKAF5IzqQ5RyCQ (336 x 188)
+28. pxirHB4Hyzk: Maya Bay (duration: 3:13)
+                 By: Shockline - Topic (channelId: UC1OyypZAXv0SbAA560MS84g - https://www.youtube.com/channel/UC1OyypZAXv0SbAA560MS84g)
+                 Img: https://i.ytimg.com/vi/pxirHB4Hyzk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC98ghsFC2DyNmujJFXww6JXAxrwg (336 x 188)
+29. 4EQkYVtE-28: Circles (duration: 3:36)
+                 By: Post Malone (channelId: UCeLHszkByNZtPKcaVXOCOQQ - https://www.youtube.com/channel/UCeLHszkByNZtPKcaVXOCOQQ)
+                 Img: https://i.ytimg.com/vi/4EQkYVtE-28/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmdM4wULa7KNP5oDQYQdfYBs6Mcw (336 x 188)
+30. 8KYvLtNxyvA: Xandra - Guardian (Copyright Free) (duration: 3:28)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/8KYvLtNxyvA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDjwjhAVAzItS26oDkM9dclqu-5cA (336 x 188)
+31. b2Me4-2_sSM: Nomyn - Elsewhere (duration: 3:56)
+                 By: Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
+                 Img: https://i.ytimg.com/vi/b2Me4-2_sSM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAaUPjhk3J_tbYjAUUZQ1WQQBgpDw (336 x 188)
+32. 2P9lhkAWrIw: Ptr. - Genesis (duration: 4:01)
+                 By: Ptr. Music (channelId: UCXEQ3MIvvEI_sdA_JBz7Yvw - https://www.youtube.com/channel/UCXEQ3MIvvEI_sdA_JBz7Yvw)
+                 Img: https://i.ytimg.com/vi/2P9lhkAWrIw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4lq9jPYaf9AIaJOzhVM5fUYqHdg (336 x 188)
+33. vrjCXJuSYSQ: Only You (duration: 4:49)
+                 By: Sara Skinner - Topic (channelId: UCxBnk3jEGw6eJGEh6NPTr2g - https://www.youtube.com/channel/UCxBnk3jEGw6eJGEh6NPTr2g)
+                 Img: https://i.ytimg.com/vi/vrjCXJuSYSQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCbAlYBCKWDUlTh4tsZSaY9rfjahw (336 x 188)
+34. yVJGxfGR8n8: Everbeat & Wiljan - Wither (duration: 4:20)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/yVJGxfGR8n8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFIlRgVpDOnPNxPvtfGMOaCa13rQ (336 x 188)
+35. kHn9xb0TAZ8: ZenAware - Stay Feat. Cloe Sutherland (duration: 3:58)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/kHn9xb0TAZ8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrDo4xl7brDhIVx3V2o83oorOYuw (336 x 188)
+36. uG7eRgTwkck: Love On A Real Train (duration: 3:57)
+                 By: Tangerine Dream (channelId: UC4_FcTax65mwCulnRcelfhQ - https://www.youtube.com/channel/UC4_FcTax65mwCulnRcelfhQ)
+                 Img: https://i.ytimg.com/vi/uG7eRgTwkck/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA_JHhEheKqGZhF0t-6rM24t5N1Ow (336 x 188)
+37. BDrUcSHDzE4: Talk About It (duration: 3:19)
+                 By: Moods - Topic (channelId: UCpbhsJ_RopPzzqFbbvCoRlw - https://www.youtube.com/channel/UCpbhsJ_RopPzzqFbbvCoRlw)
+                 Img: https://i.ytimg.com/vi/BDrUcSHDzE4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbrW2ZBLG4jR8t9Uw8VwSq8VcWDg (336 x 188)
+38. Ni-5gxombQk: Michael FK & Liam Thomas - Hold Me (duration: 3:29)
+                 By: Michael FK (channelId: UCJ2NTKK4C9Vc1d7hZ4DhBeg - https://www.youtube.com/channel/UCJ2NTKK4C9Vc1d7hZ4DhBeg)
+                 Img: https://i.ytimg.com/vi/Ni-5gxombQk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUeF2GUnOVesKOMu4Z-zh5yQypzQ (336 x 188)
+39. u0ET_XVFp5c: Okusha (duration: 3:47)
+                 By: Etherwood - Topic (channelId: UClB4ELglLicoeF3ffTJtUww - https://www.youtube.com/channel/UClB4ELglLicoeF3ffTJtUww)
+                 Img: https://i.ytimg.com/vi/u0ET_XVFp5c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSsKABC5-nOW4uXicP15OsopW3Fw (336 x 188)
+40. HyvshmXATpQ: Sum Wave - Leaving Lunar (Royalty Free Music) (duration: 3:52)
+                 By: Epidemic Lounge (channelId: UCr0g6AP_nBAhuPH9ruAjrug - https://www.youtube.com/@EpidemicLounge)
+                 Img: https://i.ytimg.com/vi/HyvshmXATpQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcu5MajRLqNTlAe49yrYtDeCDDFA (336 x 188)
+41. Qgreya5PS-o: Cash - Promise (duration: 8:33)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/Qgreya5PS-o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFqLwtx8MKr7m3gbVp7BtIxvLoew (336 x 188)
+42. rJ0D1GbDq1Q: Let Me Love You (duration: 3:26)
+                 By: DJ Snake (channelId: UC_x8HoD18XJkILQBreVENUQ - https://www.youtube.com/channel/UC_x8HoD18XJkILQBreVENUQ)
+                 Img: https://i.ytimg.com/vi/rJ0D1GbDq1Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHYPeK7U6qRjqITu6rTY08fcpiSA (336 x 188)
+43. cHoDl3oI4Es: Ooyy - Pink Mirrors (duration: 2:53)
+                 By: Epidemic Electronic (channelId: UCMg7TTDtUXq2yTu3uqqoprQ - https://www.youtube.com/@EpidemicElectronic)
+                 Img: https://i.ytimg.com/vi/cHoDl3oI4Es/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBg6pDlJgZrEVqyGMIWvfTF-xfztA (336 x 188)
+44. 9ezoZfpGDjE: GalaxyTones - Feel It Now | Chillstep (duration: 4:16)
+                 By: GalaxyTones (channelId: UCFA-sMBWsRsfnbYFMhXII8w - https://www.youtube.com/channel/UCFA-sMBWsRsfnbYFMhXII8w)
+                 Img: https://i.ytimg.com/vi/9ezoZfpGDjE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYNiAwKH8wDw==&rs=AOn4CLAf5DzmzxaSPhHbur2x79O3RgJJtQ (336 x 188)
+45. Lo6JPPmijXM: Tikk - Extremely Far (duration: 3:32)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/Lo6JPPmijXM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYEyBIKH8wDw==&rs=AOn4CLD7eLLcAWGoS39YX4GBDIlSd2B-dQ (336 x 188)
+46. 9NutIumSCgk: Mylky & MOHA - Roots (duration: 3:43)
+                 By: Trap City (channelId: UC65afEgL62PGFWXY7n6CUbA - https://www.youtube.com/@trapcity)
+                 Img: https://i.ytimg.com/vi/9NutIumSCgk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0ox6-64mu8fTkMotAu2uCkGVgqQ (336 x 188)
+47. dLSkvGgkTnU: Veil44 - Pulse (duration: 4:22)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/dLSkvGgkTnU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmSNJeT5_fhFBg2nMjDVwm3UEhoA (336 x 188)
+48. Vcou_HE87nI: Where Do We Go (duration: 4:28)
+                 By: Wiljan - Topic (channelId: UCy_91Ae6cdup8YsGVvEQEdw - https://www.youtube.com/channel/UCy_91Ae6cdup8YsGVvEQEdw)
+                 Img: https://i.ytimg.com/vi/Vcou_HE87nI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9cdUcJh5ONd8NhQf3ZId3KSpNiw (336 x 188)
 
 ================================================
 Iteration #1: Selecting last item in playlist...
@@ -107,61 +255,161 @@ Playlist updated:
 - Title: Mix - Wiljan & Xandra - Woodlands
 - Author: YouTube
 - Video Count: 50+ videos
-- Share URL: http://www.youtube.com/watch?v=tWyXX446LTQ&list=RDXCcN-IoYIJA
+- Share URL: http://www.youtube.com/watch?v=Vcou_HE87nI&list=RDXCcN-IoYIJA
 - Thumbnails: [{"url":"https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARuI_29dvrA_u7pQj4xs8X_HUwDw","width":336,"height":188},{"url":"https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCnA4XJbGLUcY1BPiU3TjMhKj1VXA","width":168,"height":94}]
-- Selected video Id: tWyXX446LTQ (index: 25)
+- Selected video Id: Vcou_HE87nI (index: 25)
 - Items:
 --------------------
-0. h_lRtkshuPI: Rameses B - Meaning Of Life by Liquicity (channelId: UCSXm6c-n6lsjtyjvdD0bFVw - https://www.youtube.com/c/Liquicity)
-1. g2BeVLmgfMo: Loaded by Mega Drive - Topic (channelId: UCh5BaHsQlhclRxPxshcwbAA - https://www.youtube.com/channel/UCh5BaHsQlhclRxPxshcwbAA)
-2. EVf7HyaClcE: Watch Me Fall by Phil Rey Gibbons (channelId: UC6iFYYc9UTS3BKtlovWgSkA - https://www.youtube.com/channel/UC6iFYYc9UTS3BKtlovWgSkA)
-3. Tf0_chLBQ7M: Chillstep | Kisnou - Sine Ira by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-4. gmtA6ZnV_AI: Really Slow Motion - Across Meridians (Extended Mix) by Epic Mondays Music Extensions (channelId: UCkyeeCej0ITYLZTr_d9HurQ - https://www.youtube.com/c/EpicMondaysMusicExtensions)
-5. dLSkvGgkTnU: Veil44 - Pulse by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-6. 17Sh1yc1QBM: Jacknife & The Bloody Beetroots - Jericho (Official Audio) by Spinnin' Records (channelId: UCpDJl2EmP7Oh90Vylx0dZtA - https://www.youtube.com/c/spinninrecords)
-7. KiWdli2KBMU: Nomyn - Gratitude by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-8. MuiGJqaGC2I: Aurora Night - Soul by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-9. PZSDa8i-FA0: Chillstep | S'Hill - Distant Memories by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-10. 0lCH4gGillI: KOAN Sound - Lost In Thought by KOAN Sound (channelId: UCazuZ5iU8LfQ6-IucPhctKQ - https://www.youtube.com/channel/UCazuZ5iU8LfQ6-IucPhctKQ)
-11. 7SdVxKcuibM: Euphoria by AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
-12. TzUlnugw7Dw: Goodbye Gravity - Lunation by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-13. zBnKCKk8cvo: Dwayne Ford - Heroine's Journey | Epic Cinematic Vocal Hybrid Music by Premium Music HQ (channelId: UCDNX3eBBlqBLpjv_b3UiodQ - https://www.youtube.com/user/wersion751EXTENDED)
-14. _GkiGo0j0xs: Vexaic  - Afar, We Stand by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-15. 5JHs-bFGK2E: Atom Music Audio - Home of the Broken Worlds (Extended Version) by Epic Mondays Music Extensions (channelId: UCkyeeCej0ITYLZTr_d9HurQ - https://www.youtube.com/c/EpicMondaysMusicExtensions)
-16. wyF8Al0TEfI: Chillstep | Tim Schaufert - Journey by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-17. zooc1v-aqLE: Chillstep | Dawncall - Chaos by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-18. bSg0-ST_2bQ: Water by Blackfir3 - Topic (channelId: UCtPe4P7Tm9QWKirtFIGf97Q - https://www.youtube.com/channel/UCtPe4P7Tm9QWKirtFIGf97Q)
-19. up9ByuGgi-4: Remi (Essáy Remix) by Kyson - Topic (channelId: UCkAV030PgGPpLqUc6B0SPbw - https://www.youtube.com/channel/UCkAV030PgGPpLqUc6B0SPbw)
-20. F4Fo1tyBJ-U: Heaven Above (Rework) by Cash - Topic (channelId: UCGmI5vKf7ytO7b66RBZLImQ - https://www.youtube.com/channel/UCGmI5vKf7ytO7b66RBZLImQ)
-21. 2nbPxgLt2_E: Inkarv - I'm Falling by OnlyChillstep (channelId: UCJ-DCKo6g07dtJJhjbkJtXA - https://www.youtube.com/c/OnlyChillstep)
-22. jJAyHMqRm-8: Day One - Horizon by SuicideSheeep (channelId: UCLTZddgA_La9H4Ngg99t_QQ - https://www.youtube.com/user/SuicideSheeep)
-23. yrotlfsJixM: Resonance - Haven by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-24. 2Fswbew5rs4: Reflections by Cali Martini - Topic (channelId: UCVcqc0G8N5Z72SJPypGkcCw - https://www.youtube.com/channel/UCVcqc0G8N5Z72SJPypGkcCw)
-25. tWyXX446LTQ(selected): Phantomyst - Forever by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-26. ECX1Y-4RDvo: Without Your Love by Oscuro (channelId: UCTkKG2MqTgo3QFLPcXol_Ng - https://www.youtube.com/channel/UCTkKG2MqTgo3QFLPcXol_Ng)
-27. _swLN8Mr1zk: Kaizen & Yoe Mase - Impurity by SuicideSheeep (channelId: UCLTZddgA_La9H4Ngg99t_QQ - https://www.youtube.com/user/SuicideSheeep)
-28. tIoAVtERpvs: Thinking of You by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
-29. BReUPh0DOqA: Alter Ego by Nika Bliadze - Topic (channelId: UC10RdV4QzWDD5YNTSi5Z_2Q - https://www.youtube.com/channel/UC10RdV4QzWDD5YNTSi5Z_2Q)
-30. dHrqww90RqA: Nomyn - Echoes (Copyright Free) by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-31. 73gB2KDCbKw: Wandr & M'elle Louise - Steal Me Away by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-32. b-J13HkSRYA: Nomyn - Astral (Official Video) by Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
-33. EJusm7RYGp8: [Chillout] - Direct - Tranquility [Monstercat Release] by Monstercat Uncaged (channelId: UCJ6td3C9QlPO9O_J5dF4ZzA - https://www.youtube.com/c/Monstercat)
-34. -Xw6jTMWkpM: Nora Van Elken - Ikebana (Music Video) by Tropical House Records (channelId: UC9gx9GubfPD0gK8D32INA2w - https://www.youtube.com/c/Tropicalhouserecords)
-35. mmw67v5O3j8: Dwayne Ford - Manic Hero | Epic Heroic Beautiful Vocal Music by Premium Music HQ (channelId: UCDNX3eBBlqBLpjv_b3UiodQ - https://www.youtube.com/user/wersion751EXTENDED)
-36. 9PWcQFL77n4: Lovestory by AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
-37. iKbl6mJLDa0: The Weight Of The World by Oscuro (channelId: UCTkKG2MqTgo3QFLPcXol_Ng - https://www.youtube.com/channel/UCTkKG2MqTgo3QFLPcXol_Ng)
-38. 7GYwt6QVk_E: The Journey by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
-39. 6NDOlXPg2BY: Krisu | My Dying Star by Krisu (channelId: UCpu3LvsyO5xymoOFyIIEHIg - https://www.youtube.com/channel/UCpu3LvsyO5xymoOFyIIEHIg)
-40. IyRfSaPGFQ4: Light Memory - Run Aground by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-41. -q92bhZ8uSQ: Dwayne Ford - Immortal (Feat. Clara Sorace) | Epic Dark Powerful Hybrid Music by Premium Music HQ (channelId: UCDNX3eBBlqBLpjv_b3UiodQ - https://www.youtube.com/user/wersion751EXTENDED)
-42. dCNhGWyOcSY: Superhuman - Virtual Riot ft Amba Shepherd (Titchimoto Remix) by Amba Shepherd  (channelId: UCnan3IL4h1UK1OFmkHgRgsA - https://www.youtube.com/channel/UCnan3IL4h1UK1OFmkHgRgsA)
-43. XxruLw6C0Eo: Forever by Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
-44. sAWzn8OYbYY: James Everingham - Dimension (Beautiful Orchestral) by Jennyni20 (Epic Music) (channelId: UCrkM_2qWc4K6ygTdXijU_ag - https://www.youtube.com/c/EpicJennyni20)
-45. MFuXVB5BVzQ: Dear Gravity ●● To Lay Down Everything You've Built (Official Video) by Dear Gravity (channelId: UCrnoE7U4SbEoRyFlssE--Cg - https://www.youtube.com/channel/UCrnoE7U4SbEoRyFlssE--Cg)
-46. Il-gLt_JPSQ: Best of Times by Mike Murray (channelId: UCvE5ZDm8e_3PqzJjL-W-LMg - https://www.youtube.com/channel/UCvE5ZDm8e_3PqzJjL-W-LMg)
-47. SyE_Nfp191s: Wiljan & Xandra - Woodlands (Copyright Free Music) by RFM - Royalty Free Music [No Copyright Music] (channelId: UCyytiQuL-5S59OX1opqG-bQ - https://www.youtube.com/c/Rfmofficialpagetr)
-48. kFo4xvEvWJQ: Here on My Own by Swardy - Topic (channelId: UCDO_BIebXKL6xGZslzHL7YA - https://www.youtube.com/channel/UCDO_BIebXKL6xGZslzHL7YA)
-49. UfEDVtZIsm8: I Love You by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
+0. BvOri59lfs8: Phantomyst - The Pulse (duration: 3:55)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/BvOri59lfs8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYfyBCKCEwDw==&rs=AOn4CLCDPCTAOLZsSHqBK_IW_Iuc3UywPw (336 x 188)
+1. r7zTKRonHXM: Closer (duration: 4:06)
+                By: The Chainsmokers (channelId: UCq3Ci-h945sbEYXpVlw7rJg - https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg)
+                Img: https://i.ytimg.com/vi/r7zTKRonHXM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCa_74IEpemLP9YlbCgdAxE_lALSQ (336 x 188)
+2. J5e0-tv4lP4: Art of Silence (duration: 4:16)
+                By: UniqOfficial - Topic (channelId: UC71u6VPHlqTHsnRgZQ4hoXg - https://www.youtube.com/channel/UC71u6VPHlqTHsnRgZQ4hoXg)
+                Img: https://i.ytimg.com/vi/J5e0-tv4lP4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMiS3LHZKQ4M-mgsttrmm_U1VVFQ (336 x 188)
+3. kVtkKtw5Af8: The Chainsmokers - All We Know ft. Phoebe Ryan (Jaydon Lewis & NGO Remix) (duration: 3:37)
+                By: Trap Nation (channelId: UCa10nxShhzNrCE1o2ZOPztg - https://www.youtube.com/@TrapNation)
+                Img: https://i.ytimg.com/vi/kVtkKtw5Af8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYSyBGKHIwDw==&rs=AOn4CLAVs0I590PwCf7XIjFH9iWrLlvIJw (336 x 188)
+4. ZqhJrCThkj4: Nani Kha - Mutant (duration: 3:27)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/ZqhJrCThkj4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYMiBHKH8wDw==&rs=AOn4CLBpilONXAyWSjIFkKAF5IzqQ5RyCQ (336 x 188)
+5. pxirHB4Hyzk: Maya Bay (duration: 3:13)
+                By: Shockline - Topic (channelId: UC1OyypZAXv0SbAA560MS84g - https://www.youtube.com/channel/UC1OyypZAXv0SbAA560MS84g)
+                Img: https://i.ytimg.com/vi/pxirHB4Hyzk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC98ghsFC2DyNmujJFXww6JXAxrwg (336 x 188)
+6. 4EQkYVtE-28: Circles (duration: 3:36)
+                By: Post Malone (channelId: UCeLHszkByNZtPKcaVXOCOQQ - https://www.youtube.com/channel/UCeLHszkByNZtPKcaVXOCOQQ)
+                Img: https://i.ytimg.com/vi/4EQkYVtE-28/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmdM4wULa7KNP5oDQYQdfYBs6Mcw (336 x 188)
+7. 8KYvLtNxyvA: Xandra - Guardian (Copyright Free) (duration: 3:28)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/8KYvLtNxyvA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDjwjhAVAzItS26oDkM9dclqu-5cA (336 x 188)
+8. b2Me4-2_sSM: Nomyn - Elsewhere (duration: 3:56)
+                By: Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
+                Img: https://i.ytimg.com/vi/b2Me4-2_sSM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAaUPjhk3J_tbYjAUUZQ1WQQBgpDw (336 x 188)
+9. 2P9lhkAWrIw: Ptr. - Genesis (duration: 4:01)
+                By: Ptr. Music (channelId: UCXEQ3MIvvEI_sdA_JBz7Yvw - https://www.youtube.com/channel/UCXEQ3MIvvEI_sdA_JBz7Yvw)
+                Img: https://i.ytimg.com/vi/2P9lhkAWrIw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4lq9jPYaf9AIaJOzhVM5fUYqHdg (336 x 188)
+10. vrjCXJuSYSQ: Only You (duration: 4:49)
+                 By: Sara Skinner - Topic (channelId: UCxBnk3jEGw6eJGEh6NPTr2g - https://www.youtube.com/channel/UCxBnk3jEGw6eJGEh6NPTr2g)
+                 Img: https://i.ytimg.com/vi/vrjCXJuSYSQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCbAlYBCKWDUlTh4tsZSaY9rfjahw (336 x 188)
+11. yVJGxfGR8n8: Everbeat & Wiljan - Wither (duration: 4:20)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/yVJGxfGR8n8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFIlRgVpDOnPNxPvtfGMOaCa13rQ (336 x 188)
+12. kHn9xb0TAZ8: ZenAware - Stay Feat. Cloe Sutherland (duration: 3:58)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/kHn9xb0TAZ8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrDo4xl7brDhIVx3V2o83oorOYuw (336 x 188)
+13. uG7eRgTwkck: Love On A Real Train (duration: 3:57)
+                 By: Tangerine Dream (channelId: UC4_FcTax65mwCulnRcelfhQ - https://www.youtube.com/channel/UC4_FcTax65mwCulnRcelfhQ)
+                 Img: https://i.ytimg.com/vi/uG7eRgTwkck/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA_JHhEheKqGZhF0t-6rM24t5N1Ow (336 x 188)
+14. BDrUcSHDzE4: Talk About It (duration: 3:19)
+                 By: Moods - Topic (channelId: UCpbhsJ_RopPzzqFbbvCoRlw - https://www.youtube.com/channel/UCpbhsJ_RopPzzqFbbvCoRlw)
+                 Img: https://i.ytimg.com/vi/BDrUcSHDzE4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbrW2ZBLG4jR8t9Uw8VwSq8VcWDg (336 x 188)
+15. Ni-5gxombQk: Michael FK & Liam Thomas - Hold Me (duration: 3:29)
+                 By: Michael FK (channelId: UCJ2NTKK4C9Vc1d7hZ4DhBeg - https://www.youtube.com/channel/UCJ2NTKK4C9Vc1d7hZ4DhBeg)
+                 Img: https://i.ytimg.com/vi/Ni-5gxombQk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUeF2GUnOVesKOMu4Z-zh5yQypzQ (336 x 188)
+16. u0ET_XVFp5c: Okusha (duration: 3:47)
+                 By: Etherwood - Topic (channelId: UClB4ELglLicoeF3ffTJtUww - https://www.youtube.com/channel/UClB4ELglLicoeF3ffTJtUww)
+                 Img: https://i.ytimg.com/vi/u0ET_XVFp5c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDSsKABC5-nOW4uXicP15OsopW3Fw (336 x 188)
+17. HyvshmXATpQ: Sum Wave - Leaving Lunar (Royalty Free Music) (duration: 3:52)
+                 By: Epidemic Lounge (channelId: UCr0g6AP_nBAhuPH9ruAjrug - https://www.youtube.com/@EpidemicLounge)
+                 Img: https://i.ytimg.com/vi/HyvshmXATpQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcu5MajRLqNTlAe49yrYtDeCDDFA (336 x 188)
+18. Qgreya5PS-o: Cash - Promise (duration: 8:33)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/Qgreya5PS-o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFqLwtx8MKr7m3gbVp7BtIxvLoew (336 x 188)
+19. rJ0D1GbDq1Q: Let Me Love You (duration: 3:26)
+                 By: DJ Snake (channelId: UC_x8HoD18XJkILQBreVENUQ - https://www.youtube.com/channel/UC_x8HoD18XJkILQBreVENUQ)
+                 Img: https://i.ytimg.com/vi/rJ0D1GbDq1Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHYPeK7U6qRjqITu6rTY08fcpiSA (336 x 188)
+20. cHoDl3oI4Es: Ooyy - Pink Mirrors (duration: 2:53)
+                 By: Epidemic Electronic (channelId: UCMg7TTDtUXq2yTu3uqqoprQ - https://www.youtube.com/@EpidemicElectronic)
+                 Img: https://i.ytimg.com/vi/cHoDl3oI4Es/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBg6pDlJgZrEVqyGMIWvfTF-xfztA (336 x 188)
+21. 9ezoZfpGDjE: GalaxyTones - Feel It Now | Chillstep (duration: 4:16)
+                 By: GalaxyTones (channelId: UCFA-sMBWsRsfnbYFMhXII8w - https://www.youtube.com/channel/UCFA-sMBWsRsfnbYFMhXII8w)
+                 Img: https://i.ytimg.com/vi/9ezoZfpGDjE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYNiAwKH8wDw==&rs=AOn4CLAf5DzmzxaSPhHbur2x79O3RgJJtQ (336 x 188)
+22. Lo6JPPmijXM: Tikk - Extremely Far (duration: 3:32)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/Lo6JPPmijXM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYEyBIKH8wDw==&rs=AOn4CLD7eLLcAWGoS39YX4GBDIlSd2B-dQ (336 x 188)
+23. 9NutIumSCgk: Mylky & MOHA - Roots (duration: 3:43)
+                 By: Trap City (channelId: UC65afEgL62PGFWXY7n6CUbA - https://www.youtube.com/@trapcity)
+                 Img: https://i.ytimg.com/vi/9NutIumSCgk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0ox6-64mu8fTkMotAu2uCkGVgqQ (336 x 188)
+24. dLSkvGgkTnU: Veil44 - Pulse (duration: 4:22)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/dLSkvGgkTnU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmSNJeT5_fhFBg2nMjDVwm3UEhoA (336 x 188)
+25. Vcou_HE87nI(selected): Where Do We Go (duration: 4:28)
+                           By: Wiljan - Topic (channelId: UCy_91Ae6cdup8YsGVvEQEdw - https://www.youtube.com/channel/UCy_91Ae6cdup8YsGVvEQEdw)
+                           Img: https://i.ytimg.com/vi/Vcou_HE87nI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9cdUcJh5ONd8NhQf3ZId3KSpNiw (336 x 188)
+26. Pb1tesCNQhk: Asyrion - One Touch (duration: 3:39)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/Pb1tesCNQhk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYRyBUKGUwDw==&rs=AOn4CLCFBcF_1Cy6IORTv3c5zXM_gdppeQ (336 x 188)
+27. EgLzfnbaz8I: Ooyy - Come 2gether (Official Video) (duration: 3:35)
+                 By: Epidemic Electronic (channelId: UCMg7TTDtUXq2yTu3uqqoprQ - https://www.youtube.com/@EpidemicElectronic)
+                 Img: https://i.ytimg.com/vi/EgLzfnbaz8I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCO62eJYJNM1iCB2P3RdXjEPCqTJw (336 x 188)
+28. CpTr4USXjQw: Don't Let Me Down (duration: 3:29)
+                 By: The Chainsmokers (channelId: UCq3Ci-h945sbEYXpVlw7rJg - https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg)
+                 Img: https://i.ytimg.com/vi/CpTr4USXjQw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGKKgr7dyZ0pGpeQVepffrMcrMdA (336 x 188)
+29. j1utIQ-je5E: Intimatum - Initiate (duration: 5:01)
+                 By: Fluidified (channelId: UCTPjZ7UC8NgcZI8UKzb3rLw - https://www.youtube.com/@Fluidified)
+                 Img: https://i.ytimg.com/vi/j1utIQ-je5E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-uZ1wlivRHd9YAOwKaIEOBYhaPA (336 x 188)
+30. xmHBCpfLJVE: Nightfall (duration: 3:54)
+                 By: BLACK LILYS (channelId: UC9fIf5Ze6wMlaM7Nn8b1aPg - https://www.youtube.com/channel/UC9fIf5Ze6wMlaM7Nn8b1aPg)
+                 Img: https://i.ytimg.com/vi/xmHBCpfLJVE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA66141frojEGbF49oF8ay_1Vf2qw (336 x 188)
+31. Hx4nWW9z0ig: Dance Monkey (duration: 3:30)
+                 By: Tones And I (channelId: UCQeiBlCcS4-XGwFjrvDn96w - https://www.youtube.com/channel/UCQeiBlCcS4-XGwFjrvDn96w)
+                 Img: https://i.ytimg.com/vi/Hx4nWW9z0ig/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBjSgg6dOKGBnzuDS0yJ1AsogiGUA (336 x 188)
+32. 9WrfveQT2DY: Serein - Renconcile (duration: 5:37)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/9WrfveQT2DY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBoDnt7-zmcXQySFRWiM56lg9U_hA (336 x 188)
+33. TzUlnugw7Dw: Goodbye Gravity - Lunation (duration: 3:03)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/TzUlnugw7Dw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVFb5EJ6VM0gftzff4cNi5fHGvpA (336 x 188)
+34. -ehdqULOMq8: The Ambientalist - Changes (duration: 3:19)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/-ehdqULOMq8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4OgAK4CIoCDAgAEAEYTiBZKGUwDw==&rs=AOn4CLCGyss2m6-qMFq6nCaB33rgf4lPcg (336 x 188)
+35. 4dvOfI2f67k: Audio Dope - Never Let Her Go (duration: 3:33)
+                 By: MrSuicideSheep (channelId: UC5nc_ZtjKW1htCVZVRxlQAQ - https://www.youtube.com/@MrSuicideSheep)
+                 Img: https://i.ytimg.com/vi/4dvOfI2f67k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDG4AgfGo6450QReheHh-CKrqdNpg (336 x 188)
+36. bRpwNVybVaA: LEUTHERO - Erase Me (Lyrics) feat. Josh Rubin (duration: 4:04)
+                 By: Melodic Airwave (channelId: UCMRrge2ToIanH-mU-2sYWFw - https://www.youtube.com/@Melodic_Airwave)
+                 Img: https://i.ytimg.com/vi/bRpwNVybVaA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDd5HM_cOPjFEio41IR0Q-l4_Rx9A (336 x 188)
+37. -K_YSjqKgvQ: Good For You – THBD (No Copyright Music) (duration: 4:32)
+                 By: Audio Library — Music for content creators (channelId: UCht8qITGkBvXKsR1Byln-wA - https://www.youtube.com/@audiolibrary_)
+                 Img: https://i.ytimg.com/vi/-K_YSjqKgvQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzzRHBar1ftjNfyj7K_WccvqDMtg (336 x 188)
+38. 9Nj8gkcT4hg: Elysian - Conquest (duration: 3:33)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/9Nj8gkcT4hg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDKbg5kY2iqj9x7G-WNj1MBnH90Fg (336 x 188)
+39. fTdftsJxH3s: Clouds (duration: 4:44)
+                 By: Jay Mellock - Topic (channelId: UCS7i5VgEmQdWbs6vVwwyfLA - https://www.youtube.com/channel/UCS7i5VgEmQdWbs6vVwwyfLA)
+                 Img: https://i.ytimg.com/vi/fTdftsJxH3s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAAn5nDh7viWjBmDN66SzliydPFZg (336 x 188)
+40. d9GdzsVhebY: Chillstep | MARION - High Hopes (duration: 4:05)
+                 By: MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/@MixHound)
+                 Img: https://i.ytimg.com/vi/d9GdzsVhebY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnUeQl_ID21rSRLjX4PPAHBeyBZw (336 x 188)
+41. dlIuN4sabgQ: Ferven - Scattered Thoughts (duration: 3:37)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/dlIuN4sabgQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXMgv4m-asDYgmquFTUAgelpPUpA (336 x 188)
+42. FT5oRqqMFxY: Jane XØ - Lies (duration: 3:51)
+                 By: Trap City (channelId: UC65afEgL62PGFWXY7n6CUbA - https://www.youtube.com/@trapcity)
+                 Img: https://i.ytimg.com/vi/FT5oRqqMFxY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8aMvjoBResTMq5oh38mx6ptZYMA (336 x 188)
+43. TlFCMID85dQ: silenset - Your Eyes (duration: 4:43)
+                 By: opera infinita (channelId: UCs0ffgWoa85vV-PNIIurSSw - https://www.youtube.com/@OperaInfinita)
+                 Img: https://i.ytimg.com/vi/TlFCMID85dQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQL7WIUM2v1yyj4dvb7p7jWh5Y_g (336 x 188)
+44. vCJ9ykZafvs: These Years (duration: 3:59)
+                 By: Two Ways - Topic (channelId: UCvQ0dtkRQc3Y9H0aqra_GWg - https://www.youtube.com/channel/UCvQ0dtkRQc3Y9H0aqra_GWg)
+                 Img: https://i.ytimg.com/vi/vCJ9ykZafvs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBCcI5hkrzSwt6TpbW0l2F8dMJ8jw (336 x 188)
+45. mPR1BJj6J0U: Chillstep | Vesky - Solace (duration: 3:26)
+                 By: MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/@MixHound)
+                 Img: https://i.ytimg.com/vi/mPR1BJj6J0U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDAfgf01UIvQdwpMu6vWT1tkzu20w (336 x 188)
+46. J5viFREPKJ4: Etsu - Selcouth (duration: 5:17)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/J5viFREPKJ4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYSiBWKGUwDw==&rs=AOn4CLCUwvrhh0KhtHm-Vz631LvPvaXIzQ (336 x 188)
+47. QVwZmQkJ6Sw: Liam Thomas - No Time (duration: 3:15)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/QVwZmQkJ6Sw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-0WGiAUR69uMz0MaXwYE2FFYbIw (336 x 188)
+48. aPdE7Z1Dsfs: Floating (duration: 4:12)
+                 By: Ambyion - Topic (channelId: UCEACQKaddHvpx8k67_c4KHQ - https://www.youtube.com/channel/UCEACQKaddHvpx8k67_c4KHQ)
+                 Img: https://i.ytimg.com/vi/aPdE7Z1Dsfs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXLoiKDmNF1JnH4zFZlNsza2hshw (336 x 188)
+49. NsOVGorYhCE: Moon Love (Lofi Hip Hop) (duration: 3:04)
+                 By: Retro Girl (channelId: UC5iFRuUqIiFOsY-M3p8ueAQ - https://www.youtube.com/channel/UC5iFRuUqIiFOsY-M3p8ueAQ)
+                 Img: https://i.ytimg.com/vi/NsOVGorYhCE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBlepHi-ZkPEAOYSFjTCOrY95TwOA (336 x 188)
 
 ================================================
 Iteration #2: Selecting last item in playlist...
@@ -171,61 +419,161 @@ Playlist updated:
 - Title: Mix - Wiljan & Xandra - Woodlands
 - Author: YouTube
 - Video Count: 50+ videos
-- Share URL: http://www.youtube.com/watch?v=UfEDVtZIsm8&list=RDXCcN-IoYIJA
+- Share URL: http://www.youtube.com/watch?v=NsOVGorYhCE&list=RDXCcN-IoYIJA
 - Thumbnails: [{"url":"https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARuI_29dvrA_u7pQj4xs8X_HUwDw","width":336,"height":188},{"url":"https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCnA4XJbGLUcY1BPiU3TjMhKj1VXA","width":168,"height":94}]
-- Selected video Id: UfEDVtZIsm8 (index: 25)
+- Selected video Id: NsOVGorYhCE (index: 25)
 - Items:
 --------------------
-0. 2Fswbew5rs4: Reflections by Cali Martini - Topic (channelId: UCVcqc0G8N5Z72SJPypGkcCw - https://www.youtube.com/channel/UCVcqc0G8N5Z72SJPypGkcCw)
-1. tWyXX446LTQ: Phantomyst - Forever by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-2. ECX1Y-4RDvo: Without Your Love by Oscuro (channelId: UCTkKG2MqTgo3QFLPcXol_Ng - https://www.youtube.com/channel/UCTkKG2MqTgo3QFLPcXol_Ng)
-3. _swLN8Mr1zk: Kaizen & Yoe Mase - Impurity by SuicideSheeep (channelId: UCLTZddgA_La9H4Ngg99t_QQ - https://www.youtube.com/user/SuicideSheeep)
-4. tIoAVtERpvs: Thinking of You by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
-5. BReUPh0DOqA: Alter Ego by Nika Bliadze - Topic (channelId: UC10RdV4QzWDD5YNTSi5Z_2Q - https://www.youtube.com/channel/UC10RdV4QzWDD5YNTSi5Z_2Q)
-6. dHrqww90RqA: Nomyn - Echoes (Copyright Free) by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-7. 73gB2KDCbKw: Wandr & M'elle Louise - Steal Me Away by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-8. b-J13HkSRYA: Nomyn - Astral (Official Video) by Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
-9. EJusm7RYGp8: [Chillout] - Direct - Tranquility [Monstercat Release] by Monstercat Uncaged (channelId: UCJ6td3C9QlPO9O_J5dF4ZzA - https://www.youtube.com/c/Monstercat)
-10. -Xw6jTMWkpM: Nora Van Elken - Ikebana (Music Video) by Tropical House Records (channelId: UC9gx9GubfPD0gK8D32INA2w - https://www.youtube.com/c/Tropicalhouserecords)
-11. mmw67v5O3j8: Dwayne Ford - Manic Hero | Epic Heroic Beautiful Vocal Music by Premium Music HQ (channelId: UCDNX3eBBlqBLpjv_b3UiodQ - https://www.youtube.com/user/wersion751EXTENDED)
-12. 9PWcQFL77n4: Lovestory by AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
-13. iKbl6mJLDa0: The Weight Of The World by Oscuro (channelId: UCTkKG2MqTgo3QFLPcXol_Ng - https://www.youtube.com/channel/UCTkKG2MqTgo3QFLPcXol_Ng)
-14. 7GYwt6QVk_E: The Journey by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
-15. 6NDOlXPg2BY: Krisu | My Dying Star by Krisu (channelId: UCpu3LvsyO5xymoOFyIIEHIg - https://www.youtube.com/channel/UCpu3LvsyO5xymoOFyIIEHIg)
-16. IyRfSaPGFQ4: Light Memory - Run Aground by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-17. -q92bhZ8uSQ: Dwayne Ford - Immortal (Feat. Clara Sorace) | Epic Dark Powerful Hybrid Music by Premium Music HQ (channelId: UCDNX3eBBlqBLpjv_b3UiodQ - https://www.youtube.com/user/wersion751EXTENDED)
-18. dCNhGWyOcSY: Superhuman - Virtual Riot ft Amba Shepherd (Titchimoto Remix) by Amba Shepherd  (channelId: UCnan3IL4h1UK1OFmkHgRgsA - https://www.youtube.com/channel/UCnan3IL4h1UK1OFmkHgRgsA)
-19. XxruLw6C0Eo: Forever by Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
-20. sAWzn8OYbYY: James Everingham - Dimension (Beautiful Orchestral) by Jennyni20 (Epic Music) (channelId: UCrkM_2qWc4K6ygTdXijU_ag - https://www.youtube.com/c/EpicJennyni20)
-21. MFuXVB5BVzQ: Dear Gravity ●● To Lay Down Everything You've Built (Official Video) by Dear Gravity (channelId: UCrnoE7U4SbEoRyFlssE--Cg - https://www.youtube.com/channel/UCrnoE7U4SbEoRyFlssE--Cg)
-22. Il-gLt_JPSQ: Best of Times by Mike Murray (channelId: UCvE5ZDm8e_3PqzJjL-W-LMg - https://www.youtube.com/channel/UCvE5ZDm8e_3PqzJjL-W-LMg)
-23. SyE_Nfp191s: Wiljan & Xandra - Woodlands (Copyright Free Music) by RFM - Royalty Free Music [No Copyright Music] (channelId: UCyytiQuL-5S59OX1opqG-bQ - https://www.youtube.com/c/Rfmofficialpagetr)
-24. kFo4xvEvWJQ: Here on My Own by Swardy - Topic (channelId: UCDO_BIebXKL6xGZslzHL7YA - https://www.youtube.com/channel/UCDO_BIebXKL6xGZslzHL7YA)
-25. UfEDVtZIsm8(selected): I Love You by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
-26. b3gyNJYWsw8: nymano  - i wish i could sleep by Chillhop Music (channelId: UCOxqgCwgOqC2lMqC5PYz_Dg - https://www.youtube.com/c/Chillhopdotcom)
-27. 0hvDTn_xvwI: High Hopes by MARION music (channelId: UCxaF4t9buSTNzdRYnIu8qJQ - https://www.youtube.com/channel/UCxaF4t9buSTNzdRYnIu8qJQ)
-28. Pb1tesCNQhk: Asyrion - One Touch by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-29. -ehdqULOMq8: The Ambientalist - Changes by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-30. TvDIwceZNmY: Hiraeth by Aurai - Topic (channelId: UC7rFlnaPy_HOAYZjHbmHXww - https://www.youtube.com/channel/UC7rFlnaPy_HOAYZjHbmHXww)
-31. rq4fjIETLbc: Two Ways - These Years (Copyright Free) by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-32. vFWCWEEaUjs: 'The Climb' [Inspirational Hybrid Orchestral CC-BY] - Scott Buckley by Scott Buckley (channelId: UCUuUqWLLsUjheuYkP9AWxTA - https://www.youtube.com/c/ScottBuckley)
-33. JUnGuFhphz0: Give and Take by Oscuro (channelId: UCTkKG2MqTgo3QFLPcXol_Ng - https://www.youtube.com/channel/UCTkKG2MqTgo3QFLPcXol_Ng)
-34. SC3Lw121r28: The Memoirs of Gregory Otterman by Culprate (channelId: UCNd0CHw26oVe4eKcx2jNktg - https://www.youtube.com/channel/UCNd0CHw26oVe4eKcx2jNktg)
-35. PkJUX3L-uqs: Wanderflux - Sunken feat. Kidswaste & Nori (Copyright Free) by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-36. lVuAvH1PigA: Chillstep | Ptr. - Spellbound by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-37. RTPA31z9hnw: Sci-Fi Mood Music | Unity Remix by Muselab (channelId: UC2f8Dri16qJPX76aCxELMWw - https://www.youtube.com/channel/UC2f8Dri16qJPX76aCxELMWw)
-38. HnPhe1b0J5I: It's Time For You To Follow The Call: "BREATH OF THE WILD" • by Zoltán Zádori by Epic Music World (channelId: UC9ImTi0cbFHs7PQ4l2jGO1g - https://www.youtube.com/c/EpicMusicWorldII)
-39. 9e5V-gWDFp8: Stay with Me by Onycs - Topic (channelId: UC-yxkX9COE9hZ9IpWHMEFXw - https://www.youtube.com/channel/UC-yxkX9COE9hZ9IpWHMEFXw)
-40. cCksFktki5s: Ooyy - Teenage Lullaby by Epidemic Electronic (channelId: UCMg7TTDtUXq2yTu3uqqoprQ - https://www.youtube.com/c/EpidemicElectronic)
-41. 7YiAUZYVr18: Calling California by StreamBeats by Harris Heller (channelId: UCQ6hCusHlsIDXqoTbbTHSUQ - https://www.youtube.com/channel/UCQ6hCusHlsIDXqoTbbTHSUQ)
-42. Z6aYD2nupCM: Chillstep | Kyon Grey - Meliora by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-43. siBkprzaqME: The Best I Never Had by Victoriya - Topic (channelId: UChYv6-08iJjBAKw0tjk_MfA - https://www.youtube.com/channel/UChYv6-08iJjBAKw0tjk_MfA)
-44. eWFx9e_KkPU: Silence (Eminus Remix) by Eminus Music (channelId: UCbtxmehaqJup8Ilg0XZAzwA - https://www.youtube.com/channel/UCbtxmehaqJup8Ilg0XZAzwA)
-45. WRGNmw38PDM: Impulse by Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
-46. vOpimH_cYks: Heaven by Carabalito - Topic (channelId: UCInuObk9lkyCwiS-LX42SIw - https://www.youtube.com/channel/UCInuObk9lkyCwiS-LX42SIw)
-47. 0PNCEPRE8uA: Northern Lights by Lux - Topic (channelId: UCjtBM91yV9fi9jAk3NUZT4g - https://www.youtube.com/channel/UCjtBM91yV9fi9jAk3NUZT4g)
-48. yJWeZyLHyMM: ORION - Ninja Tracks [Epic Music - Epic Powerful Triumphant Orchestral Music] by Pandora Journey (channelId: UCmVGp8jfZ0VLg_i8TuCaBQw - https://www.youtube.com/c/PandoraJourney)
-49. olOMrEiXLZs: Andreas B. - Floating (Full Version) by Andreas B. (channelId: UC8e2pb35vDGxfWm_IuTYxxQ - https://www.youtube.com/user/ASBsounds)
+0. dLSkvGgkTnU: Veil44 - Pulse (duration: 4:22)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/dLSkvGgkTnU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmSNJeT5_fhFBg2nMjDVwm3UEhoA (336 x 188)
+1. Vcou_HE87nI: Where Do We Go (duration: 4:28)
+                By: Wiljan - Topic (channelId: UCy_91Ae6cdup8YsGVvEQEdw - https://www.youtube.com/channel/UCy_91Ae6cdup8YsGVvEQEdw)
+                Img: https://i.ytimg.com/vi/Vcou_HE87nI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9cdUcJh5ONd8NhQf3ZId3KSpNiw (336 x 188)
+2. Pb1tesCNQhk: Asyrion - One Touch (duration: 3:39)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/Pb1tesCNQhk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYRyBUKGUwDw==&rs=AOn4CLCFBcF_1Cy6IORTv3c5zXM_gdppeQ (336 x 188)
+3. EgLzfnbaz8I: Ooyy - Come 2gether (Official Video) (duration: 3:35)
+                By: Epidemic Electronic (channelId: UCMg7TTDtUXq2yTu3uqqoprQ - https://www.youtube.com/@EpidemicElectronic)
+                Img: https://i.ytimg.com/vi/EgLzfnbaz8I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCO62eJYJNM1iCB2P3RdXjEPCqTJw (336 x 188)
+4. CpTr4USXjQw: Don't Let Me Down (duration: 3:29)
+                By: The Chainsmokers (channelId: UCq3Ci-h945sbEYXpVlw7rJg - https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg)
+                Img: https://i.ytimg.com/vi/CpTr4USXjQw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGKKgr7dyZ0pGpeQVepffrMcrMdA (336 x 188)
+5. j1utIQ-je5E: Intimatum - Initiate (duration: 5:01)
+                By: Fluidified (channelId: UCTPjZ7UC8NgcZI8UKzb3rLw - https://www.youtube.com/@Fluidified)
+                Img: https://i.ytimg.com/vi/j1utIQ-je5E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-uZ1wlivRHd9YAOwKaIEOBYhaPA (336 x 188)
+6. xmHBCpfLJVE: Nightfall (duration: 3:54)
+                By: BLACK LILYS (channelId: UC9fIf5Ze6wMlaM7Nn8b1aPg - https://www.youtube.com/channel/UC9fIf5Ze6wMlaM7Nn8b1aPg)
+                Img: https://i.ytimg.com/vi/xmHBCpfLJVE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA66141frojEGbF49oF8ay_1Vf2qw (336 x 188)
+7. Hx4nWW9z0ig: Dance Monkey (duration: 3:30)
+                By: Tones And I (channelId: UCQeiBlCcS4-XGwFjrvDn96w - https://www.youtube.com/channel/UCQeiBlCcS4-XGwFjrvDn96w)
+                Img: https://i.ytimg.com/vi/Hx4nWW9z0ig/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBjSgg6dOKGBnzuDS0yJ1AsogiGUA (336 x 188)
+8. 9WrfveQT2DY: Serein - Renconcile (duration: 5:37)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/9WrfveQT2DY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBoDnt7-zmcXQySFRWiM56lg9U_hA (336 x 188)
+9. TzUlnugw7Dw: Goodbye Gravity - Lunation (duration: 3:03)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/TzUlnugw7Dw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVFb5EJ6VM0gftzff4cNi5fHGvpA (336 x 188)
+10. -ehdqULOMq8: The Ambientalist - Changes (duration: 3:19)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/-ehdqULOMq8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4OgAK4CIoCDAgAEAEYTiBZKGUwDw==&rs=AOn4CLCGyss2m6-qMFq6nCaB33rgf4lPcg (336 x 188)
+11. 4dvOfI2f67k: Audio Dope - Never Let Her Go (duration: 3:33)
+                 By: MrSuicideSheep (channelId: UC5nc_ZtjKW1htCVZVRxlQAQ - https://www.youtube.com/@MrSuicideSheep)
+                 Img: https://i.ytimg.com/vi/4dvOfI2f67k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDG4AgfGo6450QReheHh-CKrqdNpg (336 x 188)
+12. bRpwNVybVaA: LEUTHERO - Erase Me (Lyrics) feat. Josh Rubin (duration: 4:04)
+                 By: Melodic Airwave (channelId: UCMRrge2ToIanH-mU-2sYWFw - https://www.youtube.com/@Melodic_Airwave)
+                 Img: https://i.ytimg.com/vi/bRpwNVybVaA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDd5HM_cOPjFEio41IR0Q-l4_Rx9A (336 x 188)
+13. -K_YSjqKgvQ: Good For You – THBD (No Copyright Music) (duration: 4:32)
+                 By: Audio Library — Music for content creators (channelId: UCht8qITGkBvXKsR1Byln-wA - https://www.youtube.com/@audiolibrary_)
+                 Img: https://i.ytimg.com/vi/-K_YSjqKgvQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzzRHBar1ftjNfyj7K_WccvqDMtg (336 x 188)
+14. 9Nj8gkcT4hg: Elysian - Conquest (duration: 3:33)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/9Nj8gkcT4hg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDKbg5kY2iqj9x7G-WNj1MBnH90Fg (336 x 188)
+15. fTdftsJxH3s: Clouds (duration: 4:44)
+                 By: Jay Mellock - Topic (channelId: UCS7i5VgEmQdWbs6vVwwyfLA - https://www.youtube.com/channel/UCS7i5VgEmQdWbs6vVwwyfLA)
+                 Img: https://i.ytimg.com/vi/fTdftsJxH3s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAAn5nDh7viWjBmDN66SzliydPFZg (336 x 188)
+16. d9GdzsVhebY: Chillstep | MARION - High Hopes (duration: 4:05)
+                 By: MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/@MixHound)
+                 Img: https://i.ytimg.com/vi/d9GdzsVhebY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnUeQl_ID21rSRLjX4PPAHBeyBZw (336 x 188)
+17. dlIuN4sabgQ: Ferven - Scattered Thoughts (duration: 3:37)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/dlIuN4sabgQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXMgv4m-asDYgmquFTUAgelpPUpA (336 x 188)
+18. FT5oRqqMFxY: Jane XØ - Lies (duration: 3:51)
+                 By: Trap City (channelId: UC65afEgL62PGFWXY7n6CUbA - https://www.youtube.com/@trapcity)
+                 Img: https://i.ytimg.com/vi/FT5oRqqMFxY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8aMvjoBResTMq5oh38mx6ptZYMA (336 x 188)
+19. TlFCMID85dQ: silenset - Your Eyes (duration: 4:43)
+                 By: opera infinita (channelId: UCs0ffgWoa85vV-PNIIurSSw - https://www.youtube.com/@OperaInfinita)
+                 Img: https://i.ytimg.com/vi/TlFCMID85dQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQL7WIUM2v1yyj4dvb7p7jWh5Y_g (336 x 188)
+20. vCJ9ykZafvs: These Years (duration: 3:59)
+                 By: Two Ways - Topic (channelId: UCvQ0dtkRQc3Y9H0aqra_GWg - https://www.youtube.com/channel/UCvQ0dtkRQc3Y9H0aqra_GWg)
+                 Img: https://i.ytimg.com/vi/vCJ9ykZafvs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBCcI5hkrzSwt6TpbW0l2F8dMJ8jw (336 x 188)
+21. mPR1BJj6J0U: Chillstep | Vesky - Solace (duration: 3:26)
+                 By: MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/@MixHound)
+                 Img: https://i.ytimg.com/vi/mPR1BJj6J0U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDAfgf01UIvQdwpMu6vWT1tkzu20w (336 x 188)
+22. J5viFREPKJ4: Etsu - Selcouth (duration: 5:17)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/J5viFREPKJ4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYSiBWKGUwDw==&rs=AOn4CLCUwvrhh0KhtHm-Vz631LvPvaXIzQ (336 x 188)
+23. QVwZmQkJ6Sw: Liam Thomas - No Time (duration: 3:15)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/QVwZmQkJ6Sw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-0WGiAUR69uMz0MaXwYE2FFYbIw (336 x 188)
+24. aPdE7Z1Dsfs: Floating (duration: 4:12)
+                 By: Ambyion - Topic (channelId: UCEACQKaddHvpx8k67_c4KHQ - https://www.youtube.com/channel/UCEACQKaddHvpx8k67_c4KHQ)
+                 Img: https://i.ytimg.com/vi/aPdE7Z1Dsfs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXLoiKDmNF1JnH4zFZlNsza2hshw (336 x 188)
+25. NsOVGorYhCE(selected): Moon Love (Lofi Hip Hop) (duration: 3:04)
+                           By: Retro Girl (channelId: UC5iFRuUqIiFOsY-M3p8ueAQ - https://www.youtube.com/channel/UC5iFRuUqIiFOsY-M3p8ueAQ)
+                           Img: https://i.ytimg.com/vi/NsOVGorYhCE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBlepHi-ZkPEAOYSFjTCOrY95TwOA (336 x 188)
+26. PIhj3123ibY: AK & Sublab - Eden (duration: 3:54)
+                 By: Fluidified (channelId: UCTPjZ7UC8NgcZI8UKzb3rLw - https://www.youtube.com/@Fluidified)
+                 Img: https://i.ytimg.com/vi/PIhj3123ibY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDc1HerM-3V-YOEYCK1Jx1ayxxmyA (336 x 188)
+27. iegYAaFDoyc: Arrival (duration: 3:39)
+                 By: The Ambientalist (channelId: UCp-lia9VRUi1swyOhjGWekA - https://www.youtube.com/channel/UCp-lia9VRUi1swyOhjGWekA)
+                 Img: https://i.ytimg.com/vi/iegYAaFDoyc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUHPqRj1x3zx7riJthjkxWqB3Adw (336 x 188)
+28. cDKunXeY41o: Porcelain (2006 Remaster) (duration: 3:31)
+                 By: Moby (channelId: UCkkiTV-Lnt-m3DQp-ZeFdkA - https://www.youtube.com/channel/UCkkiTV-Lnt-m3DQp-ZeFdkA)
+                 Img: https://i.ytimg.com/vi/cDKunXeY41o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDV9ZBw6E-H9m6zXD68IImXdkF3QA (336 x 188)
+29. b-J13HkSRYA: Nomyn - Astral (Official Video) (duration: 4:12)
+                 By: Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
+                 Img: https://i.ytimg.com/vi/b-J13HkSRYA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC3i2Y1RQaL2ZCE-96dBPm2juffnA (336 x 188)
+30. 8VBOVGSHwhw: AK & Direct - Sleepless Nights (duration: 4:06)
+                 By: AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
+                 Img: https://i.ytimg.com/vi/8VBOVGSHwhw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBsSm6An2OLEj6SR6U8UDdIDygx2Q (336 x 188)
+31. SaaoYkb1G-Q: Typeform (duration: 2:29)
+                 By: Alys Good - Topic (channelId: UCzV28Bo9HlxPPTDM29MKe_Q - https://www.youtube.com/channel/UCzV28Bo9HlxPPTDM29MKe_Q)
+                 Img: https://i.ytimg.com/vi/SaaoYkb1G-Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSUBP-o60tGWUrIWuMB3oad7cBWA (336 x 188)
+32. k3vE_CQadgQ: Filaments (duration: 5:40)
+                 By: Scott Buckley - Topic (channelId: UC1GClXNsp99r4rvthPRwBLA - https://www.youtube.com/channel/UC1GClXNsp99r4rvthPRwBLA)
+                 Img: https://i.ytimg.com/vi/k3vE_CQadgQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAn1HpBW6OppTY_CbLpMhr6uNAfUA (336 x 188)
+33. CM7CfhfBACk: Aiur Oscar - Distorted and Misleading (duration: 4:42)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/CM7CfhfBACk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYTSBVKGUwDw==&rs=AOn4CLCveeeolTcxmsi5brxN4ptoaHPPqQ (336 x 188)
+34. 81_C_sTDI0w: Faded (duration: 3:42)
+                 By: XIX99 - Topic (channelId: UC0KN1c9nXyR28EElP7emS4w - https://www.youtube.com/channel/UC0KN1c9nXyR28EElP7emS4w)
+                 Img: https://i.ytimg.com/vi/81_C_sTDI0w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCy355Iupk6APY_-wvxZgDjBnKnuA (336 x 188)
+35. 4JP5tjEVX5w: Troya (duration: 7:07)
+                 By: Rue du Soleil - Topic (channelId: UC65pUGSgWobq7FXTkpkNKew - https://www.youtube.com/channel/UC65pUGSgWobq7FXTkpkNKew)
+                 Img: https://i.ytimg.com/vi/4JP5tjEVX5w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYV94qJBO4pl3E4DIRY8pUKjdv2A (336 x 188)
+36. pzmDhrECWJA: Snowman (duration: 3:16)
+                 By: WYS (channelId: UCj9NsxYNUB69k6XZD2dchyQ - https://www.youtube.com/channel/UCj9NsxYNUB69k6XZD2dchyQ)
+                 Img: https://i.ytimg.com/vi/pzmDhrECWJA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtXh_XG3Iy9TJZno4A4T3uYl7w-w (336 x 188)
+37. 4Ly95mMHqxk: Calm Music Chill Enjoyed Relaxing (duration: 3:41)
+                 By: Marina Underbow - Topic (channelId: UC-d7_r1mvgXtOCNSr3VbXBA - https://www.youtube.com/channel/UC-d7_r1mvgXtOCNSr3VbXBA)
+                 Img: https://i.ytimg.com/vi/4Ly95mMHqxk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7AXKzw2zkP7ZPZAHRBbivFo1jjw (336 x 188)
+38. lHUFOY1nSZQ: Rameses B - We Are the Universe (duration: 6:32)
+                 By: Rameses B (channelId: UCZOp92-sBSWk2X7UkmRPAtw - https://www.youtube.com/channel/UCZOp92-sBSWk2X7UkmRPAtw)
+                 Img: https://i.ytimg.com/vi/lHUFOY1nSZQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCMJGoRlqCJffdP7ahP_41TF3UXmA (336 x 188)
+39. uCW2sZZofhk: Aftermath (duration: 2:55)
+                 By: Beamer - Topic (channelId: UCoqZErD2-sutqarLyDxi6Uw - https://www.youtube.com/channel/UCoqZErD2-sutqarLyDxi6Uw)
+                 Img: https://i.ytimg.com/vi/uCW2sZZofhk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyE7SvvATFcw8R6SSyXdboM7N82A (336 x 188)
+40. -HofVpyGnuM: Falling (duration: 5:30)
+                 By: Vonnboyd - Topic (channelId: UCuiLAEAVqUQX7Ptnrbr8lOQ - https://www.youtube.com/channel/UCuiLAEAVqUQX7Ptnrbr8lOQ)
+                 Img: https://i.ytimg.com/vi/-HofVpyGnuM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAjZS7GlFR-TmY_CtKGg_-xLlczyg (336 x 188)
+41. aHsVSSgoU9c: Hatti Vatti & Synkro - Tokyo (Official Video) (duration: 4:03)
+                 By: New Moon Recordings (channelId: UCxJfvKK-W_x7UFwlzvMk8sw - https://www.youtube.com/@newmoonrecordings)
+                 Img: https://i.ytimg.com/vi/aHsVSSgoU9c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXB8Eqwa0ZjketzS_Pny7Iwv392Q (336 x 188)
+42. Fg1Fc0mWpnw: Aurora B. Polaris - The Distance Between Us (duration: 3:49)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/Fg1Fc0mWpnw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYNSBdKHIwDw==&rs=AOn4CLBWhZMkqDmdoZ7TzH1AT3he_fB-hQ (336 x 188)
+43. 7GYwt6QVk_E: The Journey (duration: 5:58)
+                 By: Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
+                 Img: https://i.ytimg.com/vi/7GYwt6QVk_E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFYSqoo5lblBBNGr-2rgnGgoj0YQ (336 x 188)
+44. a19DvuB01VE: Butterflies (Nighthawk Remix) (duration: 8:38)
+                 By: Tony Anderson (channelId: UCacN0LHUzn49j_PglvkuK2Q - https://www.youtube.com/channel/UCacN0LHUzn49j_PglvkuK2Q)
+                 Img: https://i.ytimg.com/vi/a19DvuB01VE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBM-9yuGL6wUybEjNrt1C6FmjazDw (336 x 188)
+45. rnSzYcle1dc: The Sky Keeps Moving (duration: 4:49)
+                 By: Tiikk - Topic (channelId: UCdRs-hXCA3xpwQsqKGqy64g - https://www.youtube.com/channel/UCdRs-hXCA3xpwQsqKGqy64g)
+                 Img: https://i.ytimg.com/vi/rnSzYcle1dc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAgILIT-A-Ito_Fcjarp5k8aKIisA (336 x 188)
+46. 4gATwWSjGD4: Sleepless Nights (duration: 4:02)
+                 By: AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
+                 Img: https://i.ytimg.com/vi/4gATwWSjGD4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0N6z2y3cTJxJKGInDv_fhVUFilQ (336 x 188)
+47. SacwYxV-u1c: TOXXIC PROJECT - Sentinels (TIMEDRIVER Remix) (duration: 4:15)
+                 By: Timedriver (channelId: UCb6n7fz7xE73ISTSCX6J3OA - https://www.youtube.com/channel/UCb6n7fz7xE73ISTSCX6J3OA)
+                 Img: https://i.ytimg.com/vi/SacwYxV-u1c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJHKE5NE7lbuwa5d6gXrWHVCCNag (336 x 188)
+48. _E2pT3X1yuQ: Anywhen You Say (duration: 2:29)
+                 By: Cheel - Topic (channelId: UCbyBccHcz-WO-swdVpTo1uQ - https://www.youtube.com/channel/UCbyBccHcz-WO-swdVpTo1uQ)
+                 Img: https://i.ytimg.com/vi/_E2pT3X1yuQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIyeSLboLqFqSlPWsFDM851bIuVw (336 x 188)
+49. Dyz30qX5t7c: Back to the Future (duration: 4:09)
+                 By: MARION music (channelId: UCxaF4t9buSTNzdRYnIu8qJQ - https://www.youtube.com/channel/UCxaF4t9buSTNzdRYnIu8qJQ)
+                 Img: https://i.ytimg.com/vi/Dyz30qX5t7c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMeKRIQrvC7mKGMmi2-qVBbn02tg (336 x 188)
 
 ================================================
 Iteration #3: Selecting last item in playlist...
@@ -235,61 +583,161 @@ Playlist updated:
 - Title: Mix - Wiljan & Xandra - Woodlands
 - Author: YouTube
 - Video Count: 50+ videos
-- Share URL: http://www.youtube.com/watch?v=olOMrEiXLZs&list=RDXCcN-IoYIJA
+- Share URL: http://www.youtube.com/watch?v=Dyz30qX5t7c&list=RDXCcN-IoYIJA
 - Thumbnails: [{"url":"https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARuI_29dvrA_u7pQj4xs8X_HUwDw","width":336,"height":188},{"url":"https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCnA4XJbGLUcY1BPiU3TjMhKj1VXA","width":168,"height":94}]
-- Selected video Id: olOMrEiXLZs (index: 25)
+- Selected video Id: Dyz30qX5t7c (index: 25)
 - Items:
 --------------------
-0. kFo4xvEvWJQ: Here on My Own by Swardy - Topic (channelId: UCDO_BIebXKL6xGZslzHL7YA - https://www.youtube.com/channel/UCDO_BIebXKL6xGZslzHL7YA)
-1. UfEDVtZIsm8: I Love You by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
-2. b3gyNJYWsw8: nymano  - i wish i could sleep by Chillhop Music (channelId: UCOxqgCwgOqC2lMqC5PYz_Dg - https://www.youtube.com/c/Chillhopdotcom)
-3. 0hvDTn_xvwI: High Hopes by MARION music (channelId: UCxaF4t9buSTNzdRYnIu8qJQ - https://www.youtube.com/channel/UCxaF4t9buSTNzdRYnIu8qJQ)
-4. Pb1tesCNQhk: Asyrion - One Touch by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-5. -ehdqULOMq8: The Ambientalist - Changes by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-6. TvDIwceZNmY: Hiraeth by Aurai - Topic (channelId: UC7rFlnaPy_HOAYZjHbmHXww - https://www.youtube.com/channel/UC7rFlnaPy_HOAYZjHbmHXww)
-7. rq4fjIETLbc: Two Ways - These Years (Copyright Free) by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-8. vFWCWEEaUjs: 'The Climb' [Inspirational Hybrid Orchestral CC-BY] - Scott Buckley by Scott Buckley (channelId: UCUuUqWLLsUjheuYkP9AWxTA - https://www.youtube.com/c/ScottBuckley)
-9. JUnGuFhphz0: Give and Take by Oscuro (channelId: UCTkKG2MqTgo3QFLPcXol_Ng - https://www.youtube.com/channel/UCTkKG2MqTgo3QFLPcXol_Ng)
-10. SC3Lw121r28: The Memoirs of Gregory Otterman by Culprate (channelId: UCNd0CHw26oVe4eKcx2jNktg - https://www.youtube.com/channel/UCNd0CHw26oVe4eKcx2jNktg)
-11. PkJUX3L-uqs: Wanderflux - Sunken feat. Kidswaste & Nori (Copyright Free) by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-12. lVuAvH1PigA: Chillstep | Ptr. - Spellbound by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-13. RTPA31z9hnw: Sci-Fi Mood Music | Unity Remix by Muselab (channelId: UC2f8Dri16qJPX76aCxELMWw - https://www.youtube.com/channel/UC2f8Dri16qJPX76aCxELMWw)
-14. HnPhe1b0J5I: It's Time For You To Follow The Call: "BREATH OF THE WILD" • by Zoltán Zádori by Epic Music World (channelId: UC9ImTi0cbFHs7PQ4l2jGO1g - https://www.youtube.com/c/EpicMusicWorldII)
-15. 9e5V-gWDFp8: Stay with Me by Onycs - Topic (channelId: UC-yxkX9COE9hZ9IpWHMEFXw - https://www.youtube.com/channel/UC-yxkX9COE9hZ9IpWHMEFXw)
-16. cCksFktki5s: Ooyy - Teenage Lullaby by Epidemic Electronic (channelId: UCMg7TTDtUXq2yTu3uqqoprQ - https://www.youtube.com/c/EpidemicElectronic)
-17. 7YiAUZYVr18: Calling California by StreamBeats by Harris Heller (channelId: UCQ6hCusHlsIDXqoTbbTHSUQ - https://www.youtube.com/channel/UCQ6hCusHlsIDXqoTbbTHSUQ)
-18. Z6aYD2nupCM: Chillstep | Kyon Grey - Meliora by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-19. siBkprzaqME: The Best I Never Had by Victoriya - Topic (channelId: UChYv6-08iJjBAKw0tjk_MfA - https://www.youtube.com/channel/UChYv6-08iJjBAKw0tjk_MfA)
-20. eWFx9e_KkPU: Silence (Eminus Remix) by Eminus Music (channelId: UCbtxmehaqJup8Ilg0XZAzwA - https://www.youtube.com/channel/UCbtxmehaqJup8Ilg0XZAzwA)
-21. WRGNmw38PDM: Impulse by Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
-22. vOpimH_cYks: Heaven by Carabalito - Topic (channelId: UCInuObk9lkyCwiS-LX42SIw - https://www.youtube.com/channel/UCInuObk9lkyCwiS-LX42SIw)
-23. 0PNCEPRE8uA: Northern Lights by Lux - Topic (channelId: UCjtBM91yV9fi9jAk3NUZT4g - https://www.youtube.com/channel/UCjtBM91yV9fi9jAk3NUZT4g)
-24. yJWeZyLHyMM: ORION - Ninja Tracks [Epic Music - Epic Powerful Triumphant Orchestral Music] by Pandora Journey (channelId: UCmVGp8jfZ0VLg_i8TuCaBQw - https://www.youtube.com/c/PandoraJourney)
-25. olOMrEiXLZs(selected): Andreas B. - Floating (Full Version) by Andreas B. (channelId: UC8e2pb35vDGxfWm_IuTYxxQ - https://www.youtube.com/user/ASBsounds)
-26. CzrlLPDJ9dI: Sublime Weakness (feat. Mapps & October Child) by AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
-27. aRtFC1Uq2F8: Tiik - The Sky Keeps Moving by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-28. EpZIzwRx4AE: Yes, We're Looking At The Same Star by Poolz - Topic (channelId: UCSIwybXqbVqrUBVZN8oz-6g - https://www.youtube.com/channel/UCSIwybXqbVqrUBVZN8oz-6g)
-29. TYM8Jg0WTng: Mind Flowers by MARION music (channelId: UCxaF4t9buSTNzdRYnIu8qJQ - https://www.youtube.com/channel/UCxaF4t9buSTNzdRYnIu8qJQ)
-30. 9ICbcjoASQM: Way Too Far by Sublab (channelId: UCLfnER5Qy7hnNxztgyfjxMw - https://www.youtube.com/channel/UCLfnER5Qy7hnNxztgyfjxMw)
-31. rexLHdfQv5Q: Tiikk - Heavy by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-32. -iyJhqvmc24: Endless by Kazukii (channelId: UCVYz-aHaYUWZckpBkONTyCA - https://www.youtube.com/channel/UCVYz-aHaYUWZckpBkONTyCA)
-33. 4u3YBXgQzFw: Walking on Air by MARION music (channelId: UCxaF4t9buSTNzdRYnIu8qJQ - https://www.youtube.com/channel/UCxaF4t9buSTNzdRYnIu8qJQ)
-34. oxf8xp1Y4E4: Expanding by Elliptik - Topic (channelId: UC9kzfi9LHM_OaNsSWsAHJjA - https://www.youtube.com/channel/UC9kzfi9LHM_OaNsSWsAHJjA)
-35. PaFJrAOSVHs: Smother by Whithe - Topic (channelId: UCLvysaY14QUx4qohnS-wkWg - https://www.youtube.com/channel/UCLvysaY14QUx4qohnS-wkWg)
-36. AOu-Yx5U1PE: Drive (feat. Erin Renee) by Moog - Topic (channelId: UCaHrOPvZ1qy85toxuI-wH9g - https://www.youtube.com/channel/UCaHrOPvZ1qy85toxuI-wH9g)
-37. ZqhJrCThkj4: Nani Kha - Mutant by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-38. Xo3ez6LThQ4: Aso - Seasons by MrSuicideSheep (channelId: UC5nc_ZtjKW1htCVZVRxlQAQ - https://www.youtube.com/user/MrSuicideSheep)
-39. BahIzSbqLNo: Magdelayna - One Last Thought (Original Mix) [2009] by Magdelayna (channelId: UCXfIJkGhTY0ngQcDksav2pw - https://www.youtube.com/c/magdelayna)
-40. YGV4PaFaEr0: Dark World by GameChops (channelId: UCDVKYPXwdYUQfgA05CkyFSg - https://www.youtube.com/channel/UCDVKYPXwdYUQfgA05CkyFSg)
-41. BR4RcRDZwQQ: Dawn by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
-42. whDrvJyeevI: Luv Deluxe by Russ Davies - Topic (channelId: UC8uDkclBMNorvSaOHeEOBXw - https://www.youtube.com/channel/UC8uDkclBMNorvSaOHeEOBXw)
-43. SQXGF0-QHqI: Hans Zimmer - Interstellar Main Theme (Abandoned Remix) by Dubstep Nation (channelId: UCO_zcXmu2HGDJSRoPXEN8Mw - https://www.youtube.com/c/DubstepNation)
-44. pfHM9HyRnRc: Lenno - Some Lovin' by MrSuicideSheep (channelId: UC5nc_ZtjKW1htCVZVRxlQAQ - https://www.youtube.com/user/MrSuicideSheep)
-45. PayxVp5Go1E: Forgotten by Aurora B.Polaris (channelId: UCbkRvTwVjpNnFD5Ihy_Bb9Q - https://www.youtube.com/channel/UCbkRvTwVjpNnFD5Ihy_Bb9Q)
-46. Svp20j-Zlfw: Self Acceptance by Oscuro (channelId: UCTkKG2MqTgo3QFLPcXol_Ng - https://www.youtube.com/channel/UCTkKG2MqTgo3QFLPcXol_Ng)
-47. Jjch2vgF1Sg: Little Tokyo by Melodysheep - Topic (channelId: UC-YsB7jllzfvS4d5F4XDTbQ - https://www.youtube.com/channel/UC-YsB7jllzfvS4d5F4XDTbQ)
-48. 0AFUVrRKEc8: Two Lives by MARION music (channelId: UCxaF4t9buSTNzdRYnIu8qJQ - https://www.youtube.com/channel/UCxaF4t9buSTNzdRYnIu8qJQ)
-49. 7OeSDY-H5C0: Bayou by Mountains of the Moon (channelId: UCiaMwy9swp7YKXforgFQJnA - https://www.youtube.com/channel/UCiaMwy9swp7YKXforgFQJnA)
+0. aPdE7Z1Dsfs: Floating (duration: 4:12)
+                By: Ambyion - Topic (channelId: UCEACQKaddHvpx8k67_c4KHQ - https://www.youtube.com/channel/UCEACQKaddHvpx8k67_c4KHQ)
+                Img: https://i.ytimg.com/vi/aPdE7Z1Dsfs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXLoiKDmNF1JnH4zFZlNsza2hshw (336 x 188)
+1. NsOVGorYhCE: Moon Love (Lofi Hip Hop) (duration: 3:04)
+                By: Retro Girl (channelId: UC5iFRuUqIiFOsY-M3p8ueAQ - https://www.youtube.com/channel/UC5iFRuUqIiFOsY-M3p8ueAQ)
+                Img: https://i.ytimg.com/vi/NsOVGorYhCE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBlepHi-ZkPEAOYSFjTCOrY95TwOA (336 x 188)
+2. PIhj3123ibY: AK & Sublab - Eden (duration: 3:54)
+                By: Fluidified (channelId: UCTPjZ7UC8NgcZI8UKzb3rLw - https://www.youtube.com/@Fluidified)
+                Img: https://i.ytimg.com/vi/PIhj3123ibY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDc1HerM-3V-YOEYCK1Jx1ayxxmyA (336 x 188)
+3. iegYAaFDoyc: Arrival (duration: 3:39)
+                By: The Ambientalist (channelId: UCp-lia9VRUi1swyOhjGWekA - https://www.youtube.com/channel/UCp-lia9VRUi1swyOhjGWekA)
+                Img: https://i.ytimg.com/vi/iegYAaFDoyc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUHPqRj1x3zx7riJthjkxWqB3Adw (336 x 188)
+4. cDKunXeY41o: Porcelain (2006 Remaster) (duration: 3:31)
+                By: Moby (channelId: UCkkiTV-Lnt-m3DQp-ZeFdkA - https://www.youtube.com/channel/UCkkiTV-Lnt-m3DQp-ZeFdkA)
+                Img: https://i.ytimg.com/vi/cDKunXeY41o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDV9ZBw6E-H9m6zXD68IImXdkF3QA (336 x 188)
+5. b-J13HkSRYA: Nomyn - Astral (Official Video) (duration: 4:12)
+                By: Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
+                Img: https://i.ytimg.com/vi/b-J13HkSRYA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC3i2Y1RQaL2ZCE-96dBPm2juffnA (336 x 188)
+6. 8VBOVGSHwhw: AK & Direct - Sleepless Nights (duration: 4:06)
+                By: AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
+                Img: https://i.ytimg.com/vi/8VBOVGSHwhw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBsSm6An2OLEj6SR6U8UDdIDygx2Q (336 x 188)
+7. SaaoYkb1G-Q: Typeform (duration: 2:29)
+                By: Alys Good - Topic (channelId: UCzV28Bo9HlxPPTDM29MKe_Q - https://www.youtube.com/channel/UCzV28Bo9HlxPPTDM29MKe_Q)
+                Img: https://i.ytimg.com/vi/SaaoYkb1G-Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSUBP-o60tGWUrIWuMB3oad7cBWA (336 x 188)
+8. k3vE_CQadgQ: Filaments (duration: 5:40)
+                By: Scott Buckley - Topic (channelId: UC1GClXNsp99r4rvthPRwBLA - https://www.youtube.com/channel/UC1GClXNsp99r4rvthPRwBLA)
+                Img: https://i.ytimg.com/vi/k3vE_CQadgQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAn1HpBW6OppTY_CbLpMhr6uNAfUA (336 x 188)
+9. CM7CfhfBACk: Aiur Oscar - Distorted and Misleading (duration: 4:42)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/CM7CfhfBACk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYTSBVKGUwDw==&rs=AOn4CLCveeeolTcxmsi5brxN4ptoaHPPqQ (336 x 188)
+10. 81_C_sTDI0w: Faded (duration: 3:42)
+                 By: XIX99 - Topic (channelId: UC0KN1c9nXyR28EElP7emS4w - https://www.youtube.com/channel/UC0KN1c9nXyR28EElP7emS4w)
+                 Img: https://i.ytimg.com/vi/81_C_sTDI0w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCy355Iupk6APY_-wvxZgDjBnKnuA (336 x 188)
+11. 4JP5tjEVX5w: Troya (duration: 7:07)
+                 By: Rue du Soleil - Topic (channelId: UC65pUGSgWobq7FXTkpkNKew - https://www.youtube.com/channel/UC65pUGSgWobq7FXTkpkNKew)
+                 Img: https://i.ytimg.com/vi/4JP5tjEVX5w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYV94qJBO4pl3E4DIRY8pUKjdv2A (336 x 188)
+12. pzmDhrECWJA: Snowman (duration: 3:16)
+                 By: WYS (channelId: UCj9NsxYNUB69k6XZD2dchyQ - https://www.youtube.com/channel/UCj9NsxYNUB69k6XZD2dchyQ)
+                 Img: https://i.ytimg.com/vi/pzmDhrECWJA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtXh_XG3Iy9TJZno4A4T3uYl7w-w (336 x 188)
+13. 4Ly95mMHqxk: Calm Music Chill Enjoyed Relaxing (duration: 3:41)
+                 By: Marina Underbow - Topic (channelId: UC-d7_r1mvgXtOCNSr3VbXBA - https://www.youtube.com/channel/UC-d7_r1mvgXtOCNSr3VbXBA)
+                 Img: https://i.ytimg.com/vi/4Ly95mMHqxk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7AXKzw2zkP7ZPZAHRBbivFo1jjw (336 x 188)
+14. lHUFOY1nSZQ: Rameses B - We Are the Universe (duration: 6:32)
+                 By: Rameses B (channelId: UCZOp92-sBSWk2X7UkmRPAtw - https://www.youtube.com/channel/UCZOp92-sBSWk2X7UkmRPAtw)
+                 Img: https://i.ytimg.com/vi/lHUFOY1nSZQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCMJGoRlqCJffdP7ahP_41TF3UXmA (336 x 188)
+15. uCW2sZZofhk: Aftermath (duration: 2:55)
+                 By: Beamer - Topic (channelId: UCoqZErD2-sutqarLyDxi6Uw - https://www.youtube.com/channel/UCoqZErD2-sutqarLyDxi6Uw)
+                 Img: https://i.ytimg.com/vi/uCW2sZZofhk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyE7SvvATFcw8R6SSyXdboM7N82A (336 x 188)
+16. -HofVpyGnuM: Falling (duration: 5:30)
+                 By: Vonnboyd - Topic (channelId: UCuiLAEAVqUQX7Ptnrbr8lOQ - https://www.youtube.com/channel/UCuiLAEAVqUQX7Ptnrbr8lOQ)
+                 Img: https://i.ytimg.com/vi/-HofVpyGnuM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAjZS7GlFR-TmY_CtKGg_-xLlczyg (336 x 188)
+17. aHsVSSgoU9c: Hatti Vatti & Synkro - Tokyo (Official Video) (duration: 4:03)
+                 By: New Moon Recordings (channelId: UCxJfvKK-W_x7UFwlzvMk8sw - https://www.youtube.com/@newmoonrecordings)
+                 Img: https://i.ytimg.com/vi/aHsVSSgoU9c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXB8Eqwa0ZjketzS_Pny7Iwv392Q (336 x 188)
+18. Fg1Fc0mWpnw: Aurora B. Polaris - The Distance Between Us (duration: 3:49)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/Fg1Fc0mWpnw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYNSBdKHIwDw==&rs=AOn4CLBWhZMkqDmdoZ7TzH1AT3he_fB-hQ (336 x 188)
+19. 7GYwt6QVk_E: The Journey (duration: 5:58)
+                 By: Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
+                 Img: https://i.ytimg.com/vi/7GYwt6QVk_E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFYSqoo5lblBBNGr-2rgnGgoj0YQ (336 x 188)
+20. a19DvuB01VE: Butterflies (Nighthawk Remix) (duration: 8:38)
+                 By: Tony Anderson (channelId: UCacN0LHUzn49j_PglvkuK2Q - https://www.youtube.com/channel/UCacN0LHUzn49j_PglvkuK2Q)
+                 Img: https://i.ytimg.com/vi/a19DvuB01VE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBM-9yuGL6wUybEjNrt1C6FmjazDw (336 x 188)
+21. rnSzYcle1dc: The Sky Keeps Moving (duration: 4:49)
+                 By: Tiikk - Topic (channelId: UCdRs-hXCA3xpwQsqKGqy64g - https://www.youtube.com/channel/UCdRs-hXCA3xpwQsqKGqy64g)
+                 Img: https://i.ytimg.com/vi/rnSzYcle1dc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAgILIT-A-Ito_Fcjarp5k8aKIisA (336 x 188)
+22. 4gATwWSjGD4: Sleepless Nights (duration: 4:02)
+                 By: AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
+                 Img: https://i.ytimg.com/vi/4gATwWSjGD4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0N6z2y3cTJxJKGInDv_fhVUFilQ (336 x 188)
+23. SacwYxV-u1c: TOXXIC PROJECT - Sentinels (TIMEDRIVER Remix) (duration: 4:15)
+                 By: Timedriver (channelId: UCb6n7fz7xE73ISTSCX6J3OA - https://www.youtube.com/channel/UCb6n7fz7xE73ISTSCX6J3OA)
+                 Img: https://i.ytimg.com/vi/SacwYxV-u1c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJHKE5NE7lbuwa5d6gXrWHVCCNag (336 x 188)
+24. _E2pT3X1yuQ: Anywhen You Say (duration: 2:29)
+                 By: Cheel - Topic (channelId: UCbyBccHcz-WO-swdVpTo1uQ - https://www.youtube.com/channel/UCbyBccHcz-WO-swdVpTo1uQ)
+                 Img: https://i.ytimg.com/vi/_E2pT3X1yuQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIyeSLboLqFqSlPWsFDM851bIuVw (336 x 188)
+25. Dyz30qX5t7c(selected): Back to the Future (duration: 4:09)
+                           By: MARION music (channelId: UCxaF4t9buSTNzdRYnIu8qJQ - https://www.youtube.com/channel/UCxaF4t9buSTNzdRYnIu8qJQ)
+                           Img: https://i.ytimg.com/vi/Dyz30qX5t7c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMeKRIQrvC7mKGMmi2-qVBbn02tg (336 x 188)
+26. XxruLw6C0Eo: Forever (duration: 3:25)
+                 By: Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
+                 Img: https://i.ytimg.com/vi/XxruLw6C0Eo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBEdQpmJFWR6vWvQM4xi7PmPPMkNw (336 x 188)
+27. I2t2LQlg7eI: Nameless (duration: 4:53)
+                 By: Vonnboyd - Topic (channelId: UCuiLAEAVqUQX7Ptnrbr8lOQ - https://www.youtube.com/channel/UCuiLAEAVqUQX7Ptnrbr8lOQ)
+                 Img: https://i.ytimg.com/vi/I2t2LQlg7eI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAAZcGYxVWbPzBPMCsboXk3s-jVpw (336 x 188)
+28. BR4RcRDZwQQ: Dawn (duration: 4:10)
+                 By: Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
+                 Img: https://i.ytimg.com/vi/BR4RcRDZwQQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRovHexV-hQ9nb0MbCRkL2cUC_9Q (336 x 188)
+29. XZtsJssjWF8: Lookz - Childhood Dreams (duration: 4:00)
+                 By: Niiiiiiiiiiii (channelId: UCmsh_oOrl1hby7P1ZUx5Yfw - https://www.youtube.com/@Niiiiiiiiiiii)
+                 Img: https://i.ytimg.com/vi/XZtsJssjWF8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAeb91XErhFlNYnKCW50R-BgI6Q1g (336 x 188)
+30. 3MR3X9GNwHY: Early Morning (duration: 3:30)
+                 By: Phury - Topic (channelId: UC7LlMxVibFAJFEaUd6WDldg - https://www.youtube.com/channel/UC7LlMxVibFAJFEaUd6WDldg)
+                 Img: https://i.ytimg.com/vi/3MR3X9GNwHY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQmwY-_J-_sVEc_g8ykoQY7Y3PTw (336 x 188)
+31. tWyXX446LTQ: Phantomyst - Forever (duration: 3:13)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/tWyXX446LTQ/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYESBaKHIwDw==&rs=AOn4CLCyB6GpCGefc3MEPkxh_muDA2Wn-A (336 x 188)
+32. 4czJq1do6DU: Morningstar (duration: 4:15)
+                 By: MARION music (channelId: UCxaF4t9buSTNzdRYnIu8qJQ - https://www.youtube.com/channel/UCxaF4t9buSTNzdRYnIu8qJQ)
+                 Img: https://i.ytimg.com/vi/4czJq1do6DU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBDr1hGeAuFibG_D4nVafOwfStIHQ (336 x 188)
+33. xCepevr0nZs: ghostmolly - Owls Catcher (duration: 4:45)
+                 By: Eeuphonious (channelId: UCaHM7hKCwJ_eR-dP3c7PKHw - https://www.youtube.com/@Eeuphonious)
+                 Img: https://i.ytimg.com/vi/xCepevr0nZs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZTgvn6na4pP2T0M_OHcxW8OjXNw (336 x 188)
+34. bNyRxybIUVc: Vassh - Withdrawn (duration: 4:41)
+                 By: Fluidified (channelId: UCTPjZ7UC8NgcZI8UKzb3rLw - https://www.youtube.com/@Fluidified)
+                 Img: https://i.ytimg.com/vi/bNyRxybIUVc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB71sgwGArY9ULha-NTnVljyPWXqg (336 x 188)
+35. WVB97rICYw0: Sun In Your Eyes (Sunny Lax Remix) (duration: 5:10)
+                 By: Above & Beyond (channelId: UCVE-ybBDg3UHSUylEVdPAsw - https://www.youtube.com/channel/UCVE-ybBDg3UHSUylEVdPAsw)
+                 Img: https://i.ytimg.com/vi/WVB97rICYw0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFvSG5vdve4U2M2CRFx2FouaEu0w (336 x 188)
+36. UPmMRPUTgfM: Senses (duration: 3:37)
+                 By: Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
+                 Img: https://i.ytimg.com/vi/UPmMRPUTgfM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAGWQnnIep54ynI9SC0AtvmbS1bXg (336 x 188)
+37. 3quGfW2ShMQ: Signal to Noise (duration: 5:54)
+                 By: Scott Buckley - Topic (channelId: UC1GClXNsp99r4rvthPRwBLA - https://www.youtube.com/channel/UC1GClXNsp99r4rvthPRwBLA)
+                 Img: https://i.ytimg.com/vi/3quGfW2ShMQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAg4P98FP_yvY8mxmZ6mdT86tgK1w (336 x 188)
+38. glKIIzwUckY: As We Fade (duration: 3:20)
+                 By: Wandr - Topic (channelId: UCHA1XZqy7DBHRvSrmTLmYRQ - https://www.youtube.com/channel/UCHA1XZqy7DBHRvSrmTLmYRQ)
+                 Img: https://i.ytimg.com/vi/glKIIzwUckY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBv7ZExY7gphGYDU3iloY1jSzvfIQ (336 x 188)
+39. PkJUX3L-uqs: Wanderflux - Sunken feat. Kidswaste & Nori (Copyright Free) (duration: 3:39)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/PkJUX3L-uqs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4wYnTNW65JN4nwzJ_c_lFsKXUNg (336 x 188)
+40. oixH5uhoa74: Our Destination (duration: 3:15)
+                 By: AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
+                 Img: https://i.ytimg.com/vi/oixH5uhoa74/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDE8ZyHqqpjWaIGX_URiG3gd-yLpA (336 x 188)
+41. cCpDRa2x6dA: Chillstep | Andy Leech & 4lienetic - Nightfall (duration: 4:49)
+                 By: MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/@MixHound)
+                 Img: https://i.ytimg.com/vi/cCpDRa2x6dA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8qmy_alTWxfDyDaoPtnantG7FSw (336 x 188)
+42. qMVP61y9_yw: Starlight Exsert - Waves (duration: 4:21)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/qMVP61y9_yw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYEyBZKH8wDw==&rs=AOn4CLCPvfcwptdHX0Q5jHONGtZVyY6Xkw (336 x 188)
+43. H0hW4YBEA9E: Way Home (duration: 4:16)
+                 By: Tokyo Music Walker - Topic (channelId: UCWly99tG8_SXOyeAivOwe2g - https://www.youtube.com/channel/UCWly99tG8_SXOyeAivOwe2g)
+                 Img: https://i.ytimg.com/vi/H0hW4YBEA9E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD17qFjmokF1fnijg88ii8jXzGrhQ (336 x 188)
+44. fC2sr97de8E: AK & Liam Thomas - Neuanfang (duration: 3:28)
+                 By: AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
+                 Img: https://i.ytimg.com/vi/fC2sr97de8E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCdej3HP4VNQgN9KzArS4sP0Hv2LA (336 x 188)
+45. ZaaNAVcR02k: Sappheiros - Falling (Ft. eSoreni) (duration: 4:14)
+                 By: MrSuicideSheep (channelId: UC5nc_ZtjKW1htCVZVRxlQAQ - https://www.youtube.com/@MrSuicideSheep)
+                 Img: https://i.ytimg.com/vi/ZaaNAVcR02k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBEs3_EIFNRHr1wxlTKpqwkfOY_IQ (336 x 188)
+46. 6uy5deEEnYI: ACRE x VAST - Somber (duration: 3:46)
+                 By: Fluidified (channelId: UCTPjZ7UC8NgcZI8UKzb3rLw - https://www.youtube.com/@Fluidified)
+                 Img: https://i.ytimg.com/vi/6uy5deEEnYI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBC1IjEMGW2SemMhu6FfmVJmUCdDA (336 x 188)
+47. 0AFUVrRKEc8: Two Lives (duration: 3:04)
+                 By: MARION music (channelId: UCxaF4t9buSTNzdRYnIu8qJQ - https://www.youtube.com/channel/UCxaF4t9buSTNzdRYnIu8qJQ)
+                 Img: https://i.ytimg.com/vi/0AFUVrRKEc8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBI4DkIWxWCMANr-8W6vRNRrqDm2A (336 x 188)
+48. nZ-eu7MY_6E: Cosmopolitan (duration: 4:42)
+                 By: Luxage - Topic (channelId: UCjlgWao1o2bDGl8K587zbyw - https://www.youtube.com/channel/UCjlgWao1o2bDGl8K587zbyw)
+                 Img: https://i.ytimg.com/vi/nZ-eu7MY_6E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrCzg6kUlSF7mvlQgQ4UJvLvG_Yw (336 x 188)
+49. i5QLcINCNQc: Ligera (duration: 4:38)
+                 By: The Potetion - Topic (channelId: UChv9dsin2XWDI9QhviY8Upw - https://www.youtube.com/channel/UChv9dsin2XWDI9QhviY8Upw)
+                 Img: https://i.ytimg.com/vi/i5QLcINCNQc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYZ9Qah3wLiln8RZ3G8GXU9yG1lQ (336 x 188)
 
 ===========================================
 Selecting first item in current playlist...
@@ -299,183 +747,285 @@ Playlist updated:
 - Title: Mix - Wiljan & Xandra - Woodlands
 - Author: YouTube
 - Video Count: 50+ videos
-- Share URL: http://www.youtube.com/watch?v=kFo4xvEvWJQ&list=RDXCcN-IoYIJA
+- Share URL: http://www.youtube.com/watch?v=aPdE7Z1Dsfs&list=RDXCcN-IoYIJA
 - Thumbnails: [{"url":"https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLARuI_29dvrA_u7pQj4xs8X_HUwDw","width":336,"height":188},{"url":"https://i.ytimg.com/vi/XCcN-IoYIJA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCnA4XJbGLUcY1BPiU3TjMhKj1VXA","width":168,"height":94}]
-- Selected video Id: kFo4xvEvWJQ (index: 25)
+- Selected video Id: aPdE7Z1Dsfs (index: 25)
 - Items:
 --------------------
-0. yrotlfsJixM: Resonance - Haven by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-1. 2Fswbew5rs4: Reflections by Cali Martini - Topic (channelId: UCVcqc0G8N5Z72SJPypGkcCw - https://www.youtube.com/channel/UCVcqc0G8N5Z72SJPypGkcCw)
-2. tWyXX446LTQ: Phantomyst - Forever by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-3. ECX1Y-4RDvo: Without Your Love by Oscuro (channelId: UCTkKG2MqTgo3QFLPcXol_Ng - https://www.youtube.com/channel/UCTkKG2MqTgo3QFLPcXol_Ng)
-4. _swLN8Mr1zk: Kaizen & Yoe Mase - Impurity by SuicideSheeep (channelId: UCLTZddgA_La9H4Ngg99t_QQ - https://www.youtube.com/user/SuicideSheeep)
-5. tIoAVtERpvs: Thinking of You by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
-6. BReUPh0DOqA: Alter Ego by Nika Bliadze - Topic (channelId: UC10RdV4QzWDD5YNTSi5Z_2Q - https://www.youtube.com/channel/UC10RdV4QzWDD5YNTSi5Z_2Q)
-7. dHrqww90RqA: Nomyn - Echoes (Copyright Free) by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-8. 73gB2KDCbKw: Wandr & M'elle Louise - Steal Me Away by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-9. b-J13HkSRYA: Nomyn - Astral (Official Video) by Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
-10. EJusm7RYGp8: [Chillout] - Direct - Tranquility [Monstercat Release] by Monstercat Uncaged (channelId: UCJ6td3C9QlPO9O_J5dF4ZzA - https://www.youtube.com/c/Monstercat)
-11. -Xw6jTMWkpM: Nora Van Elken - Ikebana (Music Video) by Tropical House Records (channelId: UC9gx9GubfPD0gK8D32INA2w - https://www.youtube.com/c/Tropicalhouserecords)
-12. mmw67v5O3j8: Dwayne Ford - Manic Hero | Epic Heroic Beautiful Vocal Music by Premium Music HQ (channelId: UCDNX3eBBlqBLpjv_b3UiodQ - https://www.youtube.com/user/wersion751EXTENDED)
-13. 9PWcQFL77n4: Lovestory by AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
-14. iKbl6mJLDa0: The Weight Of The World by Oscuro (channelId: UCTkKG2MqTgo3QFLPcXol_Ng - https://www.youtube.com/channel/UCTkKG2MqTgo3QFLPcXol_Ng)
-15. 7GYwt6QVk_E: The Journey by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
-16. 6NDOlXPg2BY: Krisu | My Dying Star by Krisu (channelId: UCpu3LvsyO5xymoOFyIIEHIg - https://www.youtube.com/channel/UCpu3LvsyO5xymoOFyIIEHIg)
-17. IyRfSaPGFQ4: Light Memory - Run Aground by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-18. -q92bhZ8uSQ: Dwayne Ford - Immortal (Feat. Clara Sorace) | Epic Dark Powerful Hybrid Music by Premium Music HQ (channelId: UCDNX3eBBlqBLpjv_b3UiodQ - https://www.youtube.com/user/wersion751EXTENDED)
-19. dCNhGWyOcSY: Superhuman - Virtual Riot ft Amba Shepherd (Titchimoto Remix) by Amba Shepherd  (channelId: UCnan3IL4h1UK1OFmkHgRgsA - https://www.youtube.com/channel/UCnan3IL4h1UK1OFmkHgRgsA)
-20. XxruLw6C0Eo: Forever by Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
-21. sAWzn8OYbYY: James Everingham - Dimension (Beautiful Orchestral) by Jennyni20 (Epic Music) (channelId: UCrkM_2qWc4K6ygTdXijU_ag - https://www.youtube.com/c/EpicJennyni20)
-22. MFuXVB5BVzQ: Dear Gravity ●● To Lay Down Everything You've Built (Official Video) by Dear Gravity (channelId: UCrnoE7U4SbEoRyFlssE--Cg - https://www.youtube.com/channel/UCrnoE7U4SbEoRyFlssE--Cg)
-23. Il-gLt_JPSQ: Best of Times by Mike Murray (channelId: UCvE5ZDm8e_3PqzJjL-W-LMg - https://www.youtube.com/channel/UCvE5ZDm8e_3PqzJjL-W-LMg)
-24. SyE_Nfp191s: Wiljan & Xandra - Woodlands (Copyright Free Music) by RFM - Royalty Free Music [No Copyright Music] (channelId: UCyytiQuL-5S59OX1opqG-bQ - https://www.youtube.com/c/Rfmofficialpagetr)
-25. kFo4xvEvWJQ(selected): Here on My Own by Swardy - Topic (channelId: UCDO_BIebXKL6xGZslzHL7YA - https://www.youtube.com/channel/UCDO_BIebXKL6xGZslzHL7YA)
-26. UfEDVtZIsm8: I Love You by Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
-27. b3gyNJYWsw8: nymano  - i wish i could sleep by Chillhop Music (channelId: UCOxqgCwgOqC2lMqC5PYz_Dg - https://www.youtube.com/c/Chillhopdotcom)
-28. 0hvDTn_xvwI: High Hopes by MARION music (channelId: UCxaF4t9buSTNzdRYnIu8qJQ - https://www.youtube.com/channel/UCxaF4t9buSTNzdRYnIu8qJQ)
-29. Pb1tesCNQhk: Asyrion - One Touch by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-30. -ehdqULOMq8: The Ambientalist - Changes by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-31. TvDIwceZNmY: Hiraeth by Aurai - Topic (channelId: UC7rFlnaPy_HOAYZjHbmHXww - https://www.youtube.com/channel/UC7rFlnaPy_HOAYZjHbmHXww)
-32. rq4fjIETLbc: Two Ways - These Years (Copyright Free) by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-33. vFWCWEEaUjs: 'The Climb' [Inspirational Hybrid Orchestral CC-BY] - Scott Buckley by Scott Buckley (channelId: UCUuUqWLLsUjheuYkP9AWxTA - https://www.youtube.com/c/ScottBuckley)
-34. JUnGuFhphz0: Give and Take by Oscuro (channelId: UCTkKG2MqTgo3QFLPcXol_Ng - https://www.youtube.com/channel/UCTkKG2MqTgo3QFLPcXol_Ng)
-35. SC3Lw121r28: The Memoirs of Gregory Otterman by Culprate (channelId: UCNd0CHw26oVe4eKcx2jNktg - https://www.youtube.com/channel/UCNd0CHw26oVe4eKcx2jNktg)
-36. PkJUX3L-uqs: Wanderflux - Sunken feat. Kidswaste & Nori (Copyright Free) by HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/c/HearWeGoCopyrightFreeMusic)
-37. lVuAvH1PigA: Chillstep | Ptr. - Spellbound by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-38. RTPA31z9hnw: Sci-Fi Mood Music | Unity Remix by Muselab (channelId: UC2f8Dri16qJPX76aCxELMWw - https://www.youtube.com/channel/UC2f8Dri16qJPX76aCxELMWw)
-39. HnPhe1b0J5I: It's Time For You To Follow The Call: "BREATH OF THE WILD" • by Zoltán Zádori by Epic Music World (channelId: UC9ImTi0cbFHs7PQ4l2jGO1g - https://www.youtube.com/c/EpicMusicWorldII)
-40. 9e5V-gWDFp8: Stay with Me by Onycs - Topic (channelId: UC-yxkX9COE9hZ9IpWHMEFXw - https://www.youtube.com/channel/UC-yxkX9COE9hZ9IpWHMEFXw)
-41. cCksFktki5s: Ooyy - Teenage Lullaby by Epidemic Electronic (channelId: UCMg7TTDtUXq2yTu3uqqoprQ - https://www.youtube.com/c/EpidemicElectronic)
-42. 7YiAUZYVr18: Calling California by StreamBeats by Harris Heller (channelId: UCQ6hCusHlsIDXqoTbbTHSUQ - https://www.youtube.com/channel/UCQ6hCusHlsIDXqoTbbTHSUQ)
-43. Z6aYD2nupCM: Chillstep | Kyon Grey - Meliora by MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/c/MixHound)
-44. siBkprzaqME: The Best I Never Had by Victoriya - Topic (channelId: UChYv6-08iJjBAKw0tjk_MfA - https://www.youtube.com/channel/UChYv6-08iJjBAKw0tjk_MfA)
-45. eWFx9e_KkPU: Silence (Eminus Remix) by Eminus Music (channelId: UCbtxmehaqJup8Ilg0XZAzwA - https://www.youtube.com/channel/UCbtxmehaqJup8Ilg0XZAzwA)
-46. WRGNmw38PDM: Impulse by Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
-47. vOpimH_cYks: Heaven by Carabalito - Topic (channelId: UCInuObk9lkyCwiS-LX42SIw - https://www.youtube.com/channel/UCInuObk9lkyCwiS-LX42SIw)
-48. 0PNCEPRE8uA: Northern Lights by Lux - Topic (channelId: UCjtBM91yV9fi9jAk3NUZT4g - https://www.youtube.com/channel/UCjtBM91yV9fi9jAk3NUZT4g)
-49. yJWeZyLHyMM: ORION - Ninja Tracks [Epic Music - Epic Powerful Triumphant Orchestral Music] by Pandora Journey (channelId: UCmVGp8jfZ0VLg_i8TuCaBQw - https://www.youtube.com/c/PandoraJourney)
+0. 9NutIumSCgk: Mylky & MOHA - Roots (duration: 3:43)
+                By: Trap City (channelId: UC65afEgL62PGFWXY7n6CUbA - https://www.youtube.com/@trapcity)
+                Img: https://i.ytimg.com/vi/9NutIumSCgk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0ox6-64mu8fTkMotAu2uCkGVgqQ (336 x 188)
+1. dLSkvGgkTnU: Veil44 - Pulse (duration: 4:22)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/dLSkvGgkTnU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmSNJeT5_fhFBg2nMjDVwm3UEhoA (336 x 188)
+2. Vcou_HE87nI: Where Do We Go (duration: 4:28)
+                By: Wiljan - Topic (channelId: UCy_91Ae6cdup8YsGVvEQEdw - https://www.youtube.com/channel/UCy_91Ae6cdup8YsGVvEQEdw)
+                Img: https://i.ytimg.com/vi/Vcou_HE87nI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9cdUcJh5ONd8NhQf3ZId3KSpNiw (336 x 188)
+3. Pb1tesCNQhk: Asyrion - One Touch (duration: 3:39)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/Pb1tesCNQhk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYRyBUKGUwDw==&rs=AOn4CLCFBcF_1Cy6IORTv3c5zXM_gdppeQ (336 x 188)
+4. EgLzfnbaz8I: Ooyy - Come 2gether (Official Video) (duration: 3:35)
+                By: Epidemic Electronic (channelId: UCMg7TTDtUXq2yTu3uqqoprQ - https://www.youtube.com/@EpidemicElectronic)
+                Img: https://i.ytimg.com/vi/EgLzfnbaz8I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCO62eJYJNM1iCB2P3RdXjEPCqTJw (336 x 188)
+5. CpTr4USXjQw: Don't Let Me Down (duration: 3:29)
+                By: The Chainsmokers (channelId: UCq3Ci-h945sbEYXpVlw7rJg - https://www.youtube.com/channel/UCq3Ci-h945sbEYXpVlw7rJg)
+                Img: https://i.ytimg.com/vi/CpTr4USXjQw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGKKgr7dyZ0pGpeQVepffrMcrMdA (336 x 188)
+6. j1utIQ-je5E: Intimatum - Initiate (duration: 5:01)
+                By: Fluidified (channelId: UCTPjZ7UC8NgcZI8UKzb3rLw - https://www.youtube.com/@Fluidified)
+                Img: https://i.ytimg.com/vi/j1utIQ-je5E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC-uZ1wlivRHd9YAOwKaIEOBYhaPA (336 x 188)
+7. xmHBCpfLJVE: Nightfall (duration: 3:54)
+                By: BLACK LILYS (channelId: UC9fIf5Ze6wMlaM7Nn8b1aPg - https://www.youtube.com/channel/UC9fIf5Ze6wMlaM7Nn8b1aPg)
+                Img: https://i.ytimg.com/vi/xmHBCpfLJVE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA66141frojEGbF49oF8ay_1Vf2qw (336 x 188)
+8. Hx4nWW9z0ig: Dance Monkey (duration: 3:30)
+                By: Tones And I (channelId: UCQeiBlCcS4-XGwFjrvDn96w - https://www.youtube.com/channel/UCQeiBlCcS4-XGwFjrvDn96w)
+                Img: https://i.ytimg.com/vi/Hx4nWW9z0ig/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBjSgg6dOKGBnzuDS0yJ1AsogiGUA (336 x 188)
+9. 9WrfveQT2DY: Serein - Renconcile (duration: 5:37)
+                By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                Img: https://i.ytimg.com/vi/9WrfveQT2DY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBoDnt7-zmcXQySFRWiM56lg9U_hA (336 x 188)
+10. TzUlnugw7Dw: Goodbye Gravity - Lunation (duration: 3:03)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/TzUlnugw7Dw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVFb5EJ6VM0gftzff4cNi5fHGvpA (336 x 188)
+11. -ehdqULOMq8: The Ambientalist - Changes (duration: 3:19)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/-ehdqULOMq8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4OgAK4CIoCDAgAEAEYTiBZKGUwDw==&rs=AOn4CLCGyss2m6-qMFq6nCaB33rgf4lPcg (336 x 188)
+12. 4dvOfI2f67k: Audio Dope - Never Let Her Go (duration: 3:33)
+                 By: MrSuicideSheep (channelId: UC5nc_ZtjKW1htCVZVRxlQAQ - https://www.youtube.com/@MrSuicideSheep)
+                 Img: https://i.ytimg.com/vi/4dvOfI2f67k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDG4AgfGo6450QReheHh-CKrqdNpg (336 x 188)
+13. bRpwNVybVaA: LEUTHERO - Erase Me (Lyrics) feat. Josh Rubin (duration: 4:04)
+                 By: Melodic Airwave (channelId: UCMRrge2ToIanH-mU-2sYWFw - https://www.youtube.com/@Melodic_Airwave)
+                 Img: https://i.ytimg.com/vi/bRpwNVybVaA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDd5HM_cOPjFEio41IR0Q-l4_Rx9A (336 x 188)
+14. -K_YSjqKgvQ: Good For You – THBD (No Copyright Music) (duration: 4:32)
+                 By: Audio Library — Music for content creators (channelId: UCht8qITGkBvXKsR1Byln-wA - https://www.youtube.com/@audiolibrary_)
+                 Img: https://i.ytimg.com/vi/-K_YSjqKgvQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzzRHBar1ftjNfyj7K_WccvqDMtg (336 x 188)
+15. 9Nj8gkcT4hg: Elysian - Conquest (duration: 3:33)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/9Nj8gkcT4hg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDKbg5kY2iqj9x7G-WNj1MBnH90Fg (336 x 188)
+16. fTdftsJxH3s: Clouds (duration: 4:44)
+                 By: Jay Mellock - Topic (channelId: UCS7i5VgEmQdWbs6vVwwyfLA - https://www.youtube.com/channel/UCS7i5VgEmQdWbs6vVwwyfLA)
+                 Img: https://i.ytimg.com/vi/fTdftsJxH3s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAAn5nDh7viWjBmDN66SzliydPFZg (336 x 188)
+17. d9GdzsVhebY: Chillstep | MARION - High Hopes (duration: 4:05)
+                 By: MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/@MixHound)
+                 Img: https://i.ytimg.com/vi/d9GdzsVhebY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnUeQl_ID21rSRLjX4PPAHBeyBZw (336 x 188)
+18. dlIuN4sabgQ: Ferven - Scattered Thoughts (duration: 3:37)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/dlIuN4sabgQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXMgv4m-asDYgmquFTUAgelpPUpA (336 x 188)
+19. FT5oRqqMFxY: Jane XØ - Lies (duration: 3:51)
+                 By: Trap City (channelId: UC65afEgL62PGFWXY7n6CUbA - https://www.youtube.com/@trapcity)
+                 Img: https://i.ytimg.com/vi/FT5oRqqMFxY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8aMvjoBResTMq5oh38mx6ptZYMA (336 x 188)
+20. TlFCMID85dQ: silenset - Your Eyes (duration: 4:43)
+                 By: opera infinita (channelId: UCs0ffgWoa85vV-PNIIurSSw - https://www.youtube.com/@OperaInfinita)
+                 Img: https://i.ytimg.com/vi/TlFCMID85dQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQL7WIUM2v1yyj4dvb7p7jWh5Y_g (336 x 188)
+21. vCJ9ykZafvs: These Years (duration: 3:59)
+                 By: Two Ways - Topic (channelId: UCvQ0dtkRQc3Y9H0aqra_GWg - https://www.youtube.com/channel/UCvQ0dtkRQc3Y9H0aqra_GWg)
+                 Img: https://i.ytimg.com/vi/vCJ9ykZafvs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBCcI5hkrzSwt6TpbW0l2F8dMJ8jw (336 x 188)
+22. mPR1BJj6J0U: Chillstep | Vesky - Solace (duration: 3:26)
+                 By: MixHound (channelId: UC_jxnWLGJ2eQK4en3UblKEw - https://www.youtube.com/@MixHound)
+                 Img: https://i.ytimg.com/vi/mPR1BJj6J0U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDAfgf01UIvQdwpMu6vWT1tkzu20w (336 x 188)
+23. J5viFREPKJ4: Etsu - Selcouth (duration: 5:17)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/J5viFREPKJ4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYSiBWKGUwDw==&rs=AOn4CLCUwvrhh0KhtHm-Vz631LvPvaXIzQ (336 x 188)
+24. QVwZmQkJ6Sw: Liam Thomas - No Time (duration: 3:15)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/QVwZmQkJ6Sw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-0WGiAUR69uMz0MaXwYE2FFYbIw (336 x 188)
+25. aPdE7Z1Dsfs(selected): Floating (duration: 4:12)
+                           By: Ambyion - Topic (channelId: UCEACQKaddHvpx8k67_c4KHQ - https://www.youtube.com/channel/UCEACQKaddHvpx8k67_c4KHQ)
+                           Img: https://i.ytimg.com/vi/aPdE7Z1Dsfs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXLoiKDmNF1JnH4zFZlNsza2hshw (336 x 188)
+26. NsOVGorYhCE: Moon Love (Lofi Hip Hop) (duration: 3:04)
+                 By: Retro Girl (channelId: UC5iFRuUqIiFOsY-M3p8ueAQ - https://www.youtube.com/channel/UC5iFRuUqIiFOsY-M3p8ueAQ)
+                 Img: https://i.ytimg.com/vi/NsOVGorYhCE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBlepHi-ZkPEAOYSFjTCOrY95TwOA (336 x 188)
+27. PIhj3123ibY: AK & Sublab - Eden (duration: 3:54)
+                 By: Fluidified (channelId: UCTPjZ7UC8NgcZI8UKzb3rLw - https://www.youtube.com/@Fluidified)
+                 Img: https://i.ytimg.com/vi/PIhj3123ibY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDc1HerM-3V-YOEYCK1Jx1ayxxmyA (336 x 188)
+28. iegYAaFDoyc: Arrival (duration: 3:39)
+                 By: The Ambientalist (channelId: UCp-lia9VRUi1swyOhjGWekA - https://www.youtube.com/channel/UCp-lia9VRUi1swyOhjGWekA)
+                 Img: https://i.ytimg.com/vi/iegYAaFDoyc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUHPqRj1x3zx7riJthjkxWqB3Adw (336 x 188)
+29. cDKunXeY41o: Porcelain (2006 Remaster) (duration: 3:31)
+                 By: Moby (channelId: UCkkiTV-Lnt-m3DQp-ZeFdkA - https://www.youtube.com/channel/UCkkiTV-Lnt-m3DQp-ZeFdkA)
+                 Img: https://i.ytimg.com/vi/cDKunXeY41o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDV9ZBw6E-H9m6zXD68IImXdkF3QA (336 x 188)
+30. b-J13HkSRYA: Nomyn - Astral (Official Video) (duration: 4:12)
+                 By: Nomyn (channelId: UCf1rozseSOhdHJTo2Ij2Sqg - https://www.youtube.com/channel/UCf1rozseSOhdHJTo2Ij2Sqg)
+                 Img: https://i.ytimg.com/vi/b-J13HkSRYA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC3i2Y1RQaL2ZCE-96dBPm2juffnA (336 x 188)
+31. 8VBOVGSHwhw: AK & Direct - Sleepless Nights (duration: 4:06)
+                 By: AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
+                 Img: https://i.ytimg.com/vi/8VBOVGSHwhw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBsSm6An2OLEj6SR6U8UDdIDygx2Q (336 x 188)
+32. SaaoYkb1G-Q: Typeform (duration: 2:29)
+                 By: Alys Good - Topic (channelId: UCzV28Bo9HlxPPTDM29MKe_Q - https://www.youtube.com/channel/UCzV28Bo9HlxPPTDM29MKe_Q)
+                 Img: https://i.ytimg.com/vi/SaaoYkb1G-Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSUBP-o60tGWUrIWuMB3oad7cBWA (336 x 188)
+33. k3vE_CQadgQ: Filaments (duration: 5:40)
+                 By: Scott Buckley - Topic (channelId: UC1GClXNsp99r4rvthPRwBLA - https://www.youtube.com/channel/UC1GClXNsp99r4rvthPRwBLA)
+                 Img: https://i.ytimg.com/vi/k3vE_CQadgQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAn1HpBW6OppTY_CbLpMhr6uNAfUA (336 x 188)
+34. CM7CfhfBACk: Aiur Oscar - Distorted and Misleading (duration: 4:42)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/CM7CfhfBACk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYTSBVKGUwDw==&rs=AOn4CLCveeeolTcxmsi5brxN4ptoaHPPqQ (336 x 188)
+35. 81_C_sTDI0w: Faded (duration: 3:42)
+                 By: XIX99 - Topic (channelId: UC0KN1c9nXyR28EElP7emS4w - https://www.youtube.com/channel/UC0KN1c9nXyR28EElP7emS4w)
+                 Img: https://i.ytimg.com/vi/81_C_sTDI0w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCy355Iupk6APY_-wvxZgDjBnKnuA (336 x 188)
+36. 4JP5tjEVX5w: Troya (duration: 7:07)
+                 By: Rue du Soleil - Topic (channelId: UC65pUGSgWobq7FXTkpkNKew - https://www.youtube.com/channel/UC65pUGSgWobq7FXTkpkNKew)
+                 Img: https://i.ytimg.com/vi/4JP5tjEVX5w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYV94qJBO4pl3E4DIRY8pUKjdv2A (336 x 188)
+37. pzmDhrECWJA: Snowman (duration: 3:16)
+                 By: WYS (channelId: UCj9NsxYNUB69k6XZD2dchyQ - https://www.youtube.com/channel/UCj9NsxYNUB69k6XZD2dchyQ)
+                 Img: https://i.ytimg.com/vi/pzmDhrECWJA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtXh_XG3Iy9TJZno4A4T3uYl7w-w (336 x 188)
+38. 4Ly95mMHqxk: Calm Music Chill Enjoyed Relaxing (duration: 3:41)
+                 By: Marina Underbow - Topic (channelId: UC-d7_r1mvgXtOCNSr3VbXBA - https://www.youtube.com/channel/UC-d7_r1mvgXtOCNSr3VbXBA)
+                 Img: https://i.ytimg.com/vi/4Ly95mMHqxk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7AXKzw2zkP7ZPZAHRBbivFo1jjw (336 x 188)
+39. lHUFOY1nSZQ: Rameses B - We Are the Universe (duration: 6:32)
+                 By: Rameses B (channelId: UCZOp92-sBSWk2X7UkmRPAtw - https://www.youtube.com/channel/UCZOp92-sBSWk2X7UkmRPAtw)
+                 Img: https://i.ytimg.com/vi/lHUFOY1nSZQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCMJGoRlqCJffdP7ahP_41TF3UXmA (336 x 188)
+40. uCW2sZZofhk: Aftermath (duration: 2:55)
+                 By: Beamer - Topic (channelId: UCoqZErD2-sutqarLyDxi6Uw - https://www.youtube.com/channel/UCoqZErD2-sutqarLyDxi6Uw)
+                 Img: https://i.ytimg.com/vi/uCW2sZZofhk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyE7SvvATFcw8R6SSyXdboM7N82A (336 x 188)
+41. -HofVpyGnuM: Falling (duration: 5:30)
+                 By: Vonnboyd - Topic (channelId: UCuiLAEAVqUQX7Ptnrbr8lOQ - https://www.youtube.com/channel/UCuiLAEAVqUQX7Ptnrbr8lOQ)
+                 Img: https://i.ytimg.com/vi/-HofVpyGnuM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAjZS7GlFR-TmY_CtKGg_-xLlczyg (336 x 188)
+42. aHsVSSgoU9c: Hatti Vatti & Synkro - Tokyo (Official Video) (duration: 4:03)
+                 By: New Moon Recordings (channelId: UCxJfvKK-W_x7UFwlzvMk8sw - https://www.youtube.com/@newmoonrecordings)
+                 Img: https://i.ytimg.com/vi/aHsVSSgoU9c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXB8Eqwa0ZjketzS_Pny7Iwv392Q (336 x 188)
+43. Fg1Fc0mWpnw: Aurora B. Polaris - The Distance Between Us (duration: 3:49)
+                 By: HearWeGo (channelId: UC2XonWIi_nkDRhKGbWdFPiA - https://www.youtube.com/@HearWeGoCopyrightFreeMusic)
+                 Img: https://i.ytimg.com/vi/Fg1Fc0mWpnw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYNSBdKHIwDw==&rs=AOn4CLBWhZMkqDmdoZ7TzH1AT3he_fB-hQ (336 x 188)
+44. 7GYwt6QVk_E: The Journey (duration: 5:58)
+                 By: Andy Leech (channelId: UCelsz5mW-KsA3fP9krX8xYQ - https://www.youtube.com/channel/UCelsz5mW-KsA3fP9krX8xYQ)
+                 Img: https://i.ytimg.com/vi/7GYwt6QVk_E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFYSqoo5lblBBNGr-2rgnGgoj0YQ (336 x 188)
+45. a19DvuB01VE: Butterflies (Nighthawk Remix) (duration: 8:38)
+                 By: Tony Anderson (channelId: UCacN0LHUzn49j_PglvkuK2Q - https://www.youtube.com/channel/UCacN0LHUzn49j_PglvkuK2Q)
+                 Img: https://i.ytimg.com/vi/a19DvuB01VE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBM-9yuGL6wUybEjNrt1C6FmjazDw (336 x 188)
+46. rnSzYcle1dc: The Sky Keeps Moving (duration: 4:49)
+                 By: Tiikk - Topic (channelId: UCdRs-hXCA3xpwQsqKGqy64g - https://www.youtube.com/channel/UCdRs-hXCA3xpwQsqKGqy64g)
+                 Img: https://i.ytimg.com/vi/rnSzYcle1dc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAgILIT-A-Ito_Fcjarp5k8aKIisA (336 x 188)
+47. 4gATwWSjGD4: Sleepless Nights (duration: 4:02)
+                 By: AK (channelId: UCiduhPpyDZnDqeZlepf-Z1A - https://www.youtube.com/channel/UCiduhPpyDZnDqeZlepf-Z1A)
+                 Img: https://i.ytimg.com/vi/4gATwWSjGD4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0N6z2y3cTJxJKGInDv_fhVUFilQ (336 x 188)
+48. SacwYxV-u1c: TOXXIC PROJECT - Sentinels (TIMEDRIVER Remix) (duration: 4:15)
+                 By: Timedriver (channelId: UCb6n7fz7xE73ISTSCX6J3OA - https://www.youtube.com/channel/UCb6n7fz7xE73ISTSCX6J3OA)
+                 Img: https://i.ytimg.com/vi/SacwYxV-u1c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJHKE5NE7lbuwa5d6gXrWHVCCNag (336 x 188)
+49. _E2pT3X1yuQ: Anywhen You Say (duration: 2:29)
+                 By: Cheel - Topic (channelId: UCbyBccHcz-WO-swdVpTo1uQ - https://www.youtube.com/channel/UCbyBccHcz-WO-swdVpTo1uQ)
+                 Img: https://i.ytimg.com/vi/_E2pT3X1yuQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIyeSLboLqFqSlPWsFDM851bIuVw (336 x 188)
 
 
 Video Ids fetched:
 ------------------
 0. XCcN-IoYIJA
-1. _jYoI4rR_fg
-2. nMSqAexWQgo
-3. dmawL699ffA
-4. 3gy8KV11BoU
-5. hV4rJyK3QCU
-6. KPg9e2QSlv0
-7. tgap7y7nOW8
-8. _PGmknFMVHY
-9. M2rMhK0C7zU
-10. qMVP61y9_yw
-11. 3TxdbXtlzX0
-12. 7nwwdhZzVro
-13. K35nFONmgx8
-14. wHfc5j5QUIs
-15. fZnNCcda-gM
-16. t_sb9epRSRY
-17. J5l9Ej1zBlA
-18. yVJGxfGR8n8
-19. -ZaTiZMIaXg
-20. RHZgJHgFAOs
-21. gsasoJGkcnM
-22. mMrWWVrBrlY
-23. h_lRtkshuPI
-24. g2BeVLmgfMo
-25. EVf7HyaClcE
-26. Tf0_chLBQ7M
-27. gmtA6ZnV_AI
-28. dLSkvGgkTnU
-29. 17Sh1yc1QBM
-30. KiWdli2KBMU
-31. MuiGJqaGC2I
-32. PZSDa8i-FA0
-33. 0lCH4gGillI
-34. 7SdVxKcuibM
-35. TzUlnugw7Dw
-36. zBnKCKk8cvo
-37. _GkiGo0j0xs
-38. 5JHs-bFGK2E
-39. wyF8Al0TEfI
-40. zooc1v-aqLE
-41. bSg0-ST_2bQ
-42. up9ByuGgi-4
-43. F4Fo1tyBJ-U
-44. 2nbPxgLt2_E
-45. jJAyHMqRm-8
-46. yrotlfsJixM
-47. 2Fswbew5rs4
-48. tWyXX446LTQ
-49. ECX1Y-4RDvo
-50. _swLN8Mr1zk
-51. tIoAVtERpvs
-52. BReUPh0DOqA
-53. dHrqww90RqA
-54. 73gB2KDCbKw
-55. b-J13HkSRYA
-56. EJusm7RYGp8
-57. -Xw6jTMWkpM
-58. mmw67v5O3j8
-59. 9PWcQFL77n4
-60. iKbl6mJLDa0
-61. 7GYwt6QVk_E
-62. 6NDOlXPg2BY
-63. IyRfSaPGFQ4
-64. -q92bhZ8uSQ
-65. dCNhGWyOcSY
-66. XxruLw6C0Eo
-67. sAWzn8OYbYY
-68. MFuXVB5BVzQ
-69. Il-gLt_JPSQ
-70. SyE_Nfp191s
-71. kFo4xvEvWJQ
-72. UfEDVtZIsm8
-73. b3gyNJYWsw8
-74. 0hvDTn_xvwI
-75. Pb1tesCNQhk
-76. -ehdqULOMq8
-77. TvDIwceZNmY
-78. rq4fjIETLbc
-79. vFWCWEEaUjs
-80. JUnGuFhphz0
-81. SC3Lw121r28
-82. PkJUX3L-uqs
-83. lVuAvH1PigA
-84. RTPA31z9hnw
-85. HnPhe1b0J5I
-86. 9e5V-gWDFp8
-87. cCksFktki5s
-88. 7YiAUZYVr18
-89. Z6aYD2nupCM
-90. siBkprzaqME
-91. eWFx9e_KkPU
-92. WRGNmw38PDM
-93. vOpimH_cYks
-94. 0PNCEPRE8uA
-95. yJWeZyLHyMM
-96. olOMrEiXLZs
-97. CzrlLPDJ9dI
-98. aRtFC1Uq2F8
-99. EpZIzwRx4AE
-100. TYM8Jg0WTng
-101. 9ICbcjoASQM
-102. rexLHdfQv5Q
-103. -iyJhqvmc24
-104. 4u3YBXgQzFw
-105. oxf8xp1Y4E4
-106. PaFJrAOSVHs
-107. AOu-Yx5U1PE
-108. ZqhJrCThkj4
-109. Xo3ez6LThQ4
-110. BahIzSbqLNo
-111. YGV4PaFaEr0
-112. BR4RcRDZwQQ
-113. whDrvJyeevI
-114. SQXGF0-QHqI
-115. pfHM9HyRnRc
-116. PayxVp5Go1E
-117. Svp20j-Zlfw
-118. Jjch2vgF1Sg
-119. 0AFUVrRKEc8
-120. 7OeSDY-H5C0
+1. 2_Oiu5WSjSU
+2. _jYoI4rR_fg
+3. uSsB5hOfQVg
+4. 2EfLc_jP2g8
+5. KjQ2w80zFWw
+6. GBvLVesLZmY
+7. _tM1aoKQDaY
+8. owTWCbq_nSk
+9. yrotlfsJixM
+10. J7p4bzqLvCw
+11. inCm3ByI17o
+12. ELeOApMXJNY
+13. X-x7eZOdBFM
+14. ZAfAud_M_mg
+15. BuOBtfCioBY
+16. B6VPVBkXRPE
+17. zIZqs_e4Og4
+18. YvScsMxYODU
+19. x3bfa3DZ8JM
+20. rC-EFMisWgM
+21. aWeL8bHij08
+22. XXYlFuWEuKI
+23. BvOri59lfs8
+24. r7zTKRonHXM
+25. J5e0-tv4lP4
+26. kVtkKtw5Af8
+27. ZqhJrCThkj4
+28. pxirHB4Hyzk
+29. 4EQkYVtE-28
+30. 8KYvLtNxyvA
+31. b2Me4-2_sSM
+32. 2P9lhkAWrIw
+33. vrjCXJuSYSQ
+34. yVJGxfGR8n8
+35. kHn9xb0TAZ8
+36. uG7eRgTwkck
+37. BDrUcSHDzE4
+38. Ni-5gxombQk
+39. u0ET_XVFp5c
+40. HyvshmXATpQ
+41. Qgreya5PS-o
+42. rJ0D1GbDq1Q
+43. cHoDl3oI4Es
+44. 9ezoZfpGDjE
+45. Lo6JPPmijXM
+46. 9NutIumSCgk
+47. dLSkvGgkTnU
+48. Vcou_HE87nI
+49. Pb1tesCNQhk
+50. EgLzfnbaz8I
+51. CpTr4USXjQw
+52. j1utIQ-je5E
+53. xmHBCpfLJVE
+54. Hx4nWW9z0ig
+55. 9WrfveQT2DY
+56. TzUlnugw7Dw
+57. -ehdqULOMq8
+58. 4dvOfI2f67k
+59. bRpwNVybVaA
+60. -K_YSjqKgvQ
+61. 9Nj8gkcT4hg
+62. fTdftsJxH3s
+63. d9GdzsVhebY
+64. dlIuN4sabgQ
+65. FT5oRqqMFxY
+66. TlFCMID85dQ
+67. vCJ9ykZafvs
+68. mPR1BJj6J0U
+69. J5viFREPKJ4
+70. QVwZmQkJ6Sw
+71. aPdE7Z1Dsfs
+72. NsOVGorYhCE
+73. PIhj3123ibY
+74. iegYAaFDoyc
+75. cDKunXeY41o
+76. b-J13HkSRYA
+77. 8VBOVGSHwhw
+78. SaaoYkb1G-Q
+79. k3vE_CQadgQ
+80. CM7CfhfBACk
+81. 81_C_sTDI0w
+82. 4JP5tjEVX5w
+83. pzmDhrECWJA
+84. 4Ly95mMHqxk
+85. lHUFOY1nSZQ
+86. uCW2sZZofhk
+87. -HofVpyGnuM
+88. aHsVSSgoU9c
+89. Fg1Fc0mWpnw
+90. 7GYwt6QVk_E
+91. a19DvuB01VE
+92. rnSzYcle1dc
+93. 4gATwWSjGD4
+94. SacwYxV-u1c
+95. _E2pT3X1yuQ
+96. Dyz30qX5t7c
+97. XxruLw6C0Eo
+98. I2t2LQlg7eI
+99. BR4RcRDZwQQ
+100. XZtsJssjWF8
+101. 3MR3X9GNwHY
+102. tWyXX446LTQ
+103. 4czJq1do6DU
+104. xCepevr0nZs
+105. bNyRxybIUVc
+106. WVB97rICYw0
+107. UPmMRPUTgfM
+108. 3quGfW2ShMQ
+109. glKIIzwUckY
+110. PkJUX3L-uqs
+111. oixH5uhoa74
+112. cCpDRa2x6dA
+113. qMVP61y9_yw
+114. H0hW4YBEA9E
+115. fC2sr97de8E
+116. ZaaNAVcR02k
+117. 6uy5deEEnYI
+118. 0AFUVrRKEc8
+119. nZ-eu7MY_6E
+120. i5QLcINCNQc
+
+Test completed
